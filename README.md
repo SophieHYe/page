@@ -1,6 +1,6 @@
 ![](assets/heye.jpg)
-
-I am a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, working with Prof. [Claire Le Goues](https://clairelegoues.com). 
+  
+This is Ye! I am a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, working with Prof. [Claire Le Goues](https://clairelegoues.com). 
 
 Prior to that, I completed my Ph.D. degree in February 2023 at KTH Royal Institue of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp) and  Prof. [Benoit Baudry](https://softwarediversity.eu/), and co-supervised by Prof. [Matias Martinez](https://www.martinezmatias.com/). My research interests include AI4SE, software testing, analysis, and trustworthy software construction. Particularly, my research focuses on automatic program repair and deep learning techniques for source code usage. My PhD research is funded by Wallenberg AI, Autonomous Systems and Software Program [WASP](wasp-sweden.org/). 
 
@@ -9,6 +9,8 @@ I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from Octob
 
 Previously, I attended Sichuan University in China to obtain my BSc degree in software engineering and University of Tampere in Finland to obtain my MSc degree in computer science advised by Prof. [Zheying Zhang](https://www.tuni.fi/en/zheying-zhang), respectively. 
 
+## Contact
+- email: hey[AT]cs.cmu.edu
 
 
 ## Publications
@@ -21,9 +23,7 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 -  <ins>[JSS 2021]</ins> He Ye, Matias Martinez, Thomas Durieux, Martin Monperrus. A comprehensive study of automatic program repair on the QuixBugs benchmark, Journal of Systems and Software (JSS), Volume 171, 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302193)   [[Code]](https://github.com/ASSERT-KTH/quixbugs-experiment)
 
 
-## Talks
-This video talks about my generalresearch interest:
-
+## My generalresearch interest
 [<img src="assets/cover.png" width="460" height="230" />](assets/video.mp4)
 
 
@@ -47,11 +47,7 @@ This video talks about my generalresearch interest:
 - DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists
 
 
-## Contact
-- email: hey@cs.cmu.edu
-- email: heye@kth.se
 
 
-## Experiences
-- Jul 2023 - Present: Postdoctoral fellow at CMU
-- Jan 2018 - Jun 2023: Ph.D. student at KTH
+
+
