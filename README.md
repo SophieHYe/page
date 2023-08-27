@@ -18,6 +18,7 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 - <ins>[ICSE 2022]</ins> **He Ye**, Matias Martinez, and Martin Monperrus. **Neural Program Repair with Execution-based Backpropagation**. In Proceedings of the 44th International Conference on Software Engineering, pages 1506–1518. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3510003.3510222) [[Code]](https://anonymous.4open.science/r/RewardRepair/README.md)
 - <ins>[TSE 2022, FSE 2022 journal-first]</ins> **He Ye**, Jian Gu, Matias Martinez, Thomas Durieux and Martin Monperrus.  **Automated Classification of Overfitting Patches With Statically Extracted Code Features**. In IEEE Transactions on Software Engineering, vol. 48, no. 8, pages 2920-2938. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9399306)[[Code]](https://github.com/ASSERT-KTH/ODSExperiment)
 - <ins>[EMSE 2021, FSE 2021 journal-first]</ins> **He Ye**, Matias Martinez, and Martin Monperrus. **Automated patch assessment for program repair at scale**. Empirical Software Engineering, Volume 26, No. 2, 38 pages. [[Paper]](https://link.springer.com/article/10.1007/s10664-020-09920-w)    [[Code]](https://github.com/KTH/drr)
+-  <ins>[JSS 2021]</ins> He Ye, Matias Martinez, Thomas Durieux, Martin Monperrus. A comprehensive study of automatic program repair on the QuixBugs benchmark, Journal of Systems and Software (JSS), Volume 171, 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302193)   [[Code]](https://github.com/ASSERT-KTH/quixbugs-experiment)
 
 
 ## Talks
