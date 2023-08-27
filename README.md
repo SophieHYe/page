@@ -31,8 +31,8 @@ My research so far has included topics like automated patch generation and autom
 
 
 ## Contact
-- email: hey@cs.cmu.edu
-- email: heye@kth.se
+- email: [hey@cs.cmu.edu](mailto:hey@cs.cmu.edu)
+- email: [heye@kth.se](mailto:heye@kth.se)
 
 
 ## Experiences
