@@ -1,4 +1,3 @@
-# Postdoctoral Researcher
 ![](assets/heye.jpg)
 
 I am a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, working with Prof. [Claire Le Goues](https://clairelegoues.com). 
