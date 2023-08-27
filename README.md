@@ -27,6 +27,13 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 [<img src="assets/cover.png" width="460" height="230" />](assets/video.mp4)
 
 
+## Grants
+
+##  Master Thesis Supervision
+- Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime. 2020.
+- Abgeiba Yaroslava Isunza Navarro. Evaluation of Attention Mechanisms for Just-In-Time Software Defect Prediction. 2020.
+- Ziyi Xiang. Java Syntax Error Repair Using RoBERTa. 2022.
+
 
 ## Teaching Assistant
 **2020.09 - 2021.06**
