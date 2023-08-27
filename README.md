@@ -23,6 +23,7 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 
 ## Talks
 This video talks about my generalresearch interest:
+
 [<img src="assets/cover.png" width="460" height="230" />](assets/video.mp4)
 
 
