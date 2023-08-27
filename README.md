@@ -19,8 +19,10 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 - <ins>He Ye</ins>, Matias Martinez, and Martin Monperrus. **Neural Program Repair with Execution-based Backpropagation**. In Proceedings of the 44th International Conference on Software Engineering (ICSE '22), 1506–1518. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3510003.3510222) [[Code]](https://anonymous.4open.science/r/RewardRepair/README.md)
 
 
+## Talks
 
-[![Watch the video](assets/cover.png)](assets/video.mp4)
+[<img src="assets/cover.png" width="460" height="230" />](assets/video.mp4)
+
 
 
 ## Teaching Assistant
