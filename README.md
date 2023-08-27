@@ -1,5 +1,5 @@
 # He Ye
-![](assets/heye.jpg)
+[![Watch the video](assets/video-cover.png)](assets/video.mp4)
 
 I received my Ph.D. degree in February 2023 at [KTH](https://www.kth.se/en) where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp). My research interests include software testing, analysis, and trustworthy software construction. Particularly, my research focuses on automatic program repair and deep learning techniques for source code usage.
 
@@ -31,8 +31,8 @@ My research so far has included topics like automated patch generation and autom
 
 
 ## Contact
-- email: [hey@cs.cmu.edu](mailto:hey@cs.cmu.edu)
-- email: [heye@kth.se](mailto:heye@kth.se)
+- email: hey@cs.cmu.edu
+- email: heye@kth.se
 
 
 ## Experiences
