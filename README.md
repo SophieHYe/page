@@ -12,14 +12,16 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 
 
 ## Publications
-- <ins>He Ye</ins>, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches**  . Accepted to the 46th International Conference on Software Engineering (ICSE 2024).[[PDF]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
-- <ins>He Ye</ins>, Zimin Chen, Claire Le Goues. **PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**. Accepted to the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Challenge Competition, 2023. 
-- <ins>He Ye</ins>, Matias Martinez, Xiapu Luo, Tao Zhang, and Martin Monperrus. **SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics**. In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering (ASE ’22), Article 92, 1–13. [[PDF]](https://arxiv.org/pdf/2203.12755.pdf) [[Code]](https://github.com/ASSERT-KTH/SelfAPR)
-- <ins>He Ye</ins>, Matias Martinez, and Martin Monperrus. **Neural Program Repair with Execution-based Backpropagation**. In Proceedings of the 44th International Conference on Software Engineering (ICSE '22), 1506–1518. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3510003.3510222) [[Code]](https://anonymous.4open.science/r/RewardRepair/README.md)
+- <ins>[ICSE 2024]</ins> **He Ye**, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches** . Accepted to the 46th International Conference on Software Engineering.[[Paper]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
+- <ins>[ASE 2023 Industry Challenge]</ins>  **He Ye**, Zimin Chen, Claire Le Goues. **PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**. Accepted to the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Challenge Competition, 2023. 
+- <ins>[ASE 2022]</ins>  **He Ye**, Matias Martinez, Xiapu Luo, Tao Zhang, and Martin Monperrus. **SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics**. In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. Article 92, pages 1–13. [[PDF]](https://arxiv.org/pdf/2203.12755.pdf) [[Code]](https://github.com/ASSERT-KTH/SelfAPR)
+- <ins>[ICSE 2022]</ins> **He Ye**, Matias Martinez, and Martin Monperrus. **Neural Program Repair with Execution-based Backpropagation**. In Proceedings of the 44th International Conference on Software Engineering, pages 1506–1518. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3510003.3510222) [[Code]](https://anonymous.4open.science/r/RewardRepair/README.md)
+- <ins>[TSE 2022, FSE 2022 journal-first]</ins> **He Ye**, Jian Gu, Matias Martinez, Thomas Durieux and Martin Monperrus.  **Automated Classification of Overfitting Patches With Statically Extracted Code Features**. In IEEE Transactions on Software Engineering, vol. 48, no. 8, pages 2920-2938. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9399306)[[Code]](https://github.com/ASSERT-KTH/ODSExperiment)
+- <ins>[EMSE 2021, FSE 2021 journal-first]</ins> **He Ye**, Matias Martinez, and Martin Monperrus. **Automated patch assessment for program repair at scale**. Empirical Software Engineering, Volume 26, No. 2, 38 pages. [[Paper]](https://link.springer.com/article/10.1007/s10664-020-09920-w)    [[Code]](https://github.com/KTH/drr)
 
 
 ## Talks
-
+This video talks about my generalresearch interest:
 [<img src="assets/cover.png" width="460" height="230" />](assets/video.mp4)
 
 
