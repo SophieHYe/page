@@ -20,7 +20,7 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 
 
 
-[![Watch the video](assets/video-cover.png)](assets/video.mp4)
+[![Watch the video](assets/cover.png)](assets/video.mp4)
 
 
 ## Teaching Assistant
