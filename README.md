@@ -1,9 +1,9 @@
-# He Ye | Postdoctoral Researcher
+# Postdoctoral Researcher
 ![](assets/heye.jpg)
 
 I am a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, working with Prof. [Claire Le Goues](https://clairelegoues.com). 
 
-Prior to that, I received my Ph.D. degree in February 2023 at KTH Royal Institue of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp) and  Prof. [Benoit Baudry](https://softwarediversity.eu/), and co-supervised by Prof. [Matias Martinez](https://www.martinezmatias.com/). My research interests include AI4SE, software testing, analysis, and trustworthy software construction. Particularly, my research focuses on automatic program repair and deep learning techniques for source code usage. My PhD research is funded by Wallenberg AI, Autonomous Systems and Software Program [WASP](wasp-sweden.org/). 
+Prior to that, I completed my Ph.D. degree in February 2023 at KTH Royal Institue of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp) and  Prof. [Benoit Baudry](https://softwarediversity.eu/), and co-supervised by Prof. [Matias Martinez](https://www.martinezmatias.com/). My research interests include AI4SE, software testing, analysis, and trustworthy software construction. Particularly, my research focuses on automatic program repair and deep learning techniques for source code usage. My PhD research is funded by Wallenberg AI, Autonomous Systems and Software Program [WASP](wasp-sweden.org/). 
 
 I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from October 2021 to April 2022. It was a fruitful experience to be advised by Prof. [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
