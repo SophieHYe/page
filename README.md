@@ -59,7 +59,7 @@ Please checkout my general research interest in the following video:
 - DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists
 
 
-
+## PhD Defense
 
 
 
