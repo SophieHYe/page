@@ -14,6 +14,7 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 
 
 ## Publications
+More in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en).
 - <ins>[ICSE 2024]</ins> **He Ye**, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches** . Accepted to the 46th International Conference on Software Engineering.[[Paper]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
 - <ins>[ASE 2023 Industry Challenge]</ins>  **He Ye**, Zimin Chen, Claire Le Goues. **PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**. Accepted to the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Challenge Competition, 2023. [[To appear]]()
 - <ins>[ASE 2022]</ins>  **He Ye**, Matias Martinez, Xiapu Luo, Tao Zhang, and Martin Monperrus. **SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics**. In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. Article 92, pages 1–13. [[Paper]](https://arxiv.org/pdf/2203.12755.pdf) [[Code]](https://github.com/ASSERT-KTH/SelfAPR)
@@ -21,6 +22,7 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 - <ins>[TSE 2022, FSE 2022 journal-first]</ins> **He Ye**, Jian Gu, Matias Martinez, Thomas Durieux and Martin Monperrus.  **Automated Classification of Overfitting Patches With Statically Extracted Code Features**. In IEEE Transactions on Software Engineering, vol. 48, no. 8, pages 2920-2938. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9399306)[[Code]](https://github.com/ASSERT-KTH/ODSExperiment)
 - <ins>[EMSE 2021, FSE 2021 journal-first]</ins> **He Ye**, Matias Martinez, and Martin Monperrus. **Automated patch assessment for program repair at scale**. Empirical Software Engineering, Volume 26, No. 2, 38 pages. [[Paper]](https://link.springer.com/article/10.1007/s10664-020-09920-w)    [[Code]](https://github.com/KTH/drr)
 -  <ins>[JSS 2021]</ins> **He Ye**, Matias Martinez, Thomas Durieux, Martin Monperrus. **A comprehensive study of automatic program repair on the QuixBugs benchmark**. Journal of Systems and Software (JSS), Volume 171, 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302193)   [[Code]](https://github.com/ASSERT-KTH/quixbugs-experiment)
+
 
 
 ## Talks
