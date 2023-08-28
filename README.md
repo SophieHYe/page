@@ -66,6 +66,7 @@ Prof. Nicole Novielli (University of Bari),
 Prof. Robert Feldt (Chalmers University of Technology in Gothenburg),
 Prof. Sergey Mechtaev (University College London).
 Thank you all for making it happen!
-[<img src="assets/defense.jpeg" width="300" height="200" />]()[<img src="assets/opponent.jpeg" width="300" height="200" />]()
+
+[<img src="assets/opponent.jpeg" width="400" height="266" />]()[<img src="assets/defense.jpeg" width="400" height="266" />]()
 
 
