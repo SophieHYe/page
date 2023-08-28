@@ -7,7 +7,7 @@ Prior to that, I completed my Ph.D. degree in February 2023 at KTH Royal Institu
 I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from October 2021 to April 2022. It was a fruitful experience to be advised by Prof. [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
 
-Previously, I attended Sichuan University in China to obtain my BSc degree in software engineering and University of Tampere in Finland to obtain my MSc degree in 2016 in computer science advised by Prof. [Zheying Zhang](https://www.tuni.fi/en/zheying-zhang). 
+Previously, I attended Sichuan University in China to obtain my BSc degree in software engineering and University of Tampere in Finland to obtain my MSc degree in 2016 in computer science advised by adjunct Prof. [Zheying Zhang](https://www.tuni.fi/en/zheying-zhang). 
 
 ## Contact
 - email: hey[AT]cs.cmu.edu
@@ -16,7 +16,7 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 ## Publications
 More in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en).
 - <ins>[ICSE 2024]</ins> **He Ye**, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches**. Accepted to the 46th International Conference on Software Engineering, 2024.[[Paper]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
-- <ins>[ASE 2023 Industry Challenge]</ins>  **He Ye**, Zimin Chen, Claire Le Goues. **PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**. Accepted to the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Challenge Competition, 2023.
+- <ins>[ASE 2023 Industry Challenge]</ins>  **He Ye**, Zimin Chen, Claire Le Goues. **PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**. Accepted to the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Challenge Competition, 2023. (To appear soon).
 - <ins>[ASE 2022]</ins>  **He Ye**, Matias Martinez, Xiapu Luo, Tao Zhang, and Martin Monperrus. **SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics**. In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. Article 92, pages 1–13, 2022. [[Paper]](https://arxiv.org/pdf/2203.12755.pdf) [[Code]](https://github.com/ASSERT-KTH/SelfAPR)
 - <ins>[ICSE 2022]</ins> **He Ye**, Matias Martinez, and Martin Monperrus. **Neural Program Repair with Execution-based Backpropagation**. In Proceedings of the 44th International Conference on Software Engineering, pages 1506–1518, 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3510003.3510222) [[Code]](https://anonymous.4open.science/r/RewardRepair/README.md)
 - <ins>[TSE 2022, FSE 2022 journal-first]</ins> **He Ye**, Jian Gu, Matias Martinez, Thomas Durieux and Martin Monperrus.  **Automated Classification of Overfitting Patches With Statically Extracted Code Features**. In IEEE Transactions on Software Engineering, vol. 48, no. 8, pages 2920-2938. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9399306)[[Code]](https://github.com/ASSERT-KTH/ODSExperiment)
@@ -32,8 +32,8 @@ Please checkout my general research interest in the following video:
 
 
 ## Grants
-- The Wallenberg Foundation and WASP Postdoctoral Scholarship Program (PI: He Ye)
-- The National Supercomputer Centre (NSC) at Linköping University in Sweden: Berzelius-2023-175 (PI: He Ye)
+- The Wallenberg Foundation and WASP Postdoctoral Scholarship Program (Principal Investigator: He Ye)
+- The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175 (Principal Investigator: He Ye)
 
 
 ##  Master Thesis Supervision
