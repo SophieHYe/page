@@ -7,7 +7,7 @@ Prior to that, I completed my Ph.D. degree in February 2023 at KTH Royal Institu
 I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from October 2021 to April 2022. It was a fruitful experience to be advised by Prof. [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
 
-Previously, I attended Sichuan University in China to obtain my BSc degree in software engineering and University of Tampere in Finland to obtain my MSc degree in computer science advised by Prof. [Zheying Zhang](https://www.tuni.fi/en/zheying-zhang), respectively. 
+Previously, I attended Sichuan University in China to obtain my BSc degree in software engineering and University of Tampere in Finland to obtain my MSc degree in computer science advised by Prof. [Zheying Zhang](https://www.tuni.fi/en/zheying-zhang). 
 
 ## Contact
 - email: hey[AT]cs.cmu.edu
@@ -28,6 +28,9 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 
 
 ## Grants
+- The Wallenberg Foundation and WASP Postdoctoral Scholarship Program (PI: He Ye)
+- The National Supercomputer Centre (NSC) at Linköping University in Sweden: Berzelius-2023-175 (PI: He Ye)
+
 
 ##  Master Thesis Supervision
 - Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime. 2020.
