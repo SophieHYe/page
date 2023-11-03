@@ -8,8 +8,7 @@ I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from Octob
 
 Previously, I attended Sichuan University in China to obtain my BSc degree in software engineering and University of Tampere in Finland to obtain my MSc degree in 2016 in computer science advised by adjunct Prof. [Zheying Zhang](https://www.tuni.fi/en/zheying-zhang). 
 
-## Contact
-- email: hey[AT]cs.cmu.edu
+
 
 
 
@@ -24,7 +23,10 @@ More in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&h
 - <span style="color:blue"> [JSS 2021]</span>  **He Ye**, Matias Martinez, Thomas Durieux, Martin Monperrus. **A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark**. Journal of Systems and Software (JSS), Volume 171, 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302193)   [[Code]](https://github.com/ASSERT-KTH/quixbugs-experiment)
 
 
+## Contact
+- email: hey[AT]cs[DOT]cmu[DOT]edu
 
+  
 ## Talks
 Please checkout my general research interest in the following video:
 
@@ -32,8 +34,8 @@ Please checkout my general research interest in the following video:
 
 
 ## Grants
-- The Wallenberg Foundation and WASP Postdoctoral Scholarship Program (Principal Investigator: He Ye)
-- The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175 (Principal Investigator: He Ye)
+- KAW Postdoctoral Scholarship Program with CMU 2023-2025 of $145,000.
+- The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
 
 
 ##  Master Thesis Supervision
@@ -43,22 +45,13 @@ Please checkout my general research interest in the following video:
 
 
 ## Teaching Assistant
-**2020.09 - 2021.06**
-- DD2482 Automated Software Testing and DevOps
-- DD2480 Software Engineering Fundamentals
-- DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists
+#### Teaching Assistant at KTH
+*  DD1393 Software Engineering (2018,2019,2020)
+*  DD1334 Database Technology (2019)
+*  DD2480 Software Engineering Fundamentals (2018,2019,2020)
+*  DD2482 Automated Software Testing and DevOps (2019,2020,2021)
+*  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists (2018, 2019, 2020)
 
-**2019.09 - 2020.06**
-- DD2482 Automated Software Testing and DevOps
-- DD1334 Database Technology
-- DD1393 Software Engineering
-- DD2480 Software Engineering Fundamentals
-- DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists
-
-**2018.01 - 2019.06**
-- DD1393 Software Engineering
-- DD2480 Software Engineering Fundamentals
-- DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists
 
 
 ## PhD Defense
