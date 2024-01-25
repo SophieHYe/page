@@ -39,9 +39,9 @@ Please checkout my general research interest in the following video:
 - The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
 
 ## Awards
-- Best paper award of "A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark" by SANER IBF'2019.
-- Recipient of the Distinguished Paper Award by ASE 2023 Industry Challenge Competition, earning a prize of 7,000 EURO.
-- "Best Thesis of The Year" award by WASP among five Swedish universities in 2023.
+- Best Paper Award of "A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark" by SANER IBF'2019.
+- Distinguished Paper Award by ASE 2023 Industry Challenge Competition, earning a prize of 7,000 EURO.
+- Best Thesis of The Year Award by WASP among five Swedish universities in 2023.
 
 ## Services
 ### Conference PC committee: 
@@ -73,7 +73,6 @@ Please checkout my general research interest in the following video:
 *  DD2480 Software Engineering Fundamentals (2018,2019,2020)
 *  DD2482 Automated Software Testing and DevOps (2019,2020,2021)
 *  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists (2018, 2019, 2020)
-
 
 
 ## PhD Defense
