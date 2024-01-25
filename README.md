@@ -16,6 +16,7 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 More in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en).
 - <span style="color:blue"> [ICSE 2024] </span>  **He Ye**, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches**. Accepted to the 46th International Conference on Software Engineering, 2024.[[Paper]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
 - <span style="color:blue"> [ASE 2023 Industry Challenge]</span>  **He Ye**, Zimin Chen, Claire Le Goues. **PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**. Accepted to the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Challenge Competition, 2023.   <span style="color:red"> Distinguished Paper Award 🏆</span>
+- <span style="color:blue"> [FSE 2023]</span> Kunsong Zhao, Zihao Li, Jianfeng Li,  **He Ye**, Xiapu Luo, Ting Chen. **DeepInfer: Deep Type Inference from Smart Contract Bytecode.** Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023.
 - <span style="color:blue"> [ASE 2022]</span>   **He Ye**, Matias Martinez, Xiapu Luo, Tao Zhang, and Martin Monperrus. **SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics**. In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. Article 92, pages 1–13, 2022. [[Paper]](https://arxiv.org/pdf/2203.12755.pdf) [[Code]](https://github.com/ASSERT-KTH/SelfAPR)
 - <span style="color:blue"> [ICSE 2022]</span>  **He Ye**, Matias Martinez, and Martin Monperrus. **Neural Program Repair with Execution-based Backpropagation**. In Proceedings of the 44th International Conference on Software Engineering, pages 1506–1518, 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3510003.3510222) [[Code]](https://anonymous.4open.science/r/RewardRepair/README.md)
 - <span style="color:blue"> [TSE 2022, FSE 2022 Journal-first]</span>  **He Ye**, Jian Gu, Matias Martinez, Thomas Durieux and Martin Monperrus.  **Automated Classification of Overfitting Patches With Statically Extracted Code Features**. In IEEE Transactions on Software Engineering, vol. 48, no. 8, pages 2920-2938. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9399306)[[Code]](https://github.com/ASSERT-KTH/ODSExperiment)
@@ -34,8 +35,29 @@ Please checkout my general research interest in the following video:
 
 
 ## Grants
-- KAW Postdoctoral Scholarship Program with CMU 2023-2025 of $145,000.
+- KAW Postdoctoral Scholarship Program with CMU 2023-2025.
 - The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
+
+## Awards
+- Best paper award of "A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark" by SANER IBF'2019.
+- Recipient of the Distinguished Paper Award by ASE 2023 Industry Challenge Competition, earning a prize of 7,000 EURO.
+- "Best Thesis of The Year" award by WASP among five Swedish universities in 2023.
+
+## Services
+### Conference PC committee: 
+- ICSE Research Track (2025)
+- ASE Research Track (2024)
+- MSR Technical Track (2024)
+- SANER Demo Track (2023)
+- ICSE-APR Workshop (2022, 2023, 2024)
+### Journal Reviewer
+- TSE (2022, 2023)
+- TOSEM (2023)
+- TDSC (2022)
+- Elsevier SCP (2023)
+- Elsevier IST (2023)
+
+
 
 
 ##  Master Thesis Supervision
