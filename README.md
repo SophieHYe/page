@@ -6,7 +6,7 @@ Prior to that, I completed my Ph.D. degree in February 2023 at KTH Royal Institu
 
 I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from October 2021 to April 2022. It was a fruitful experience to be advised by Prof. [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
-Previously, I attended Sichuan University in China to obtain my BSc degree in software engineering and University of Tampere in Finland to obtain my MSc degree in 2016 in computer science advised by adjunct Prof. [Zheying Zhang](https://www.tuni.fi/en/zheying-zhang). 
+Previously, I attended Sichuan University in China to obtain my BSc degree in software engineering and the University of Tampere in Finland to obtain my MSc degree in 2016 in computer science advised by adjunct Prof. [Zheying Zhang](https://www.tuni.fi/en/zheying-zhang). 
 
 
 
@@ -15,6 +15,7 @@ Previously, I attended Sichuan University in China to obtain my BSc degree in so
 ## Publications
 More in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en).
 - <span style="color:blue"> [ICSE 2024] </span>  **He Ye**, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches**. Accepted to the 46th International Conference on Software Engineering, 2024.[[Paper]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
+- <span style="color:blue">[AAAI 2024]</span> Wanjun Zhong, Lianghong Guo, Qiqi Gao, **He Ye**, Yanlin Wang. MemoryBank: Enhancing Large Language Models with Long-Term Memory. Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2024.
 - <span style="color:blue"> [ASE 2023 Industry Challenge]</span>  **He Ye**, Zimin Chen, Claire Le Goues. **PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**. Accepted to the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Challenge Competition, 2023.   <span style="color:red"> Distinguished Paper Award 🏆</span>
 - <span style="color:blue"> [FSE 2023]</span> Kunsong Zhao, Zihao Li, Jianfeng Li,  **He Ye**, Xiapu Luo, Ting Chen. **DeepInfer: Deep Type Inference from Smart Contract Bytecode.** Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023.
 - <span style="color:blue"> [ASE 2022]</span>   **He Ye**, Matias Martinez, Xiapu Luo, Tao Zhang, and Martin Monperrus. **SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics**. In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. Article 92, pages 1–13, 2022. [[Paper]](https://arxiv.org/pdf/2203.12755.pdf) [[Code]](https://github.com/ASSERT-KTH/SelfAPR)
@@ -39,9 +40,9 @@ Please checkout my general research interest in the following video:
 - The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
 
 ## Awards
-- Best Paper Award of "A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark" by SANER IBF'2019.
-- Distinguished Paper Award by ASE 2023 Industry Challenge Competition, earning a prize of 7,000 EURO.
-- Best Thesis of The Year Award by WASP among five Swedish universities in 2023.
+- <span style="color:blue"> Best Paper Award </span>  by IEEE  SANER IBF'2019.
+- <span style="color:blue"> Distinguished Paper Award </span> by IEEE ASE 2023 Industry Challenge Competition, earning a prize of 7,000 EURO.
+- <span style="color:blue"> Best Thesis of The Year Award </span> by WASP among five Swedish universities in 2023.
 
 ## Services
 ### Conference PC committee: 
