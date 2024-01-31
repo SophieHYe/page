@@ -32,7 +32,7 @@ More in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&h
 ## Talks
 Please checkout my general research interest in the following video:
 
-[<img src="assets/cover.png" width="460" />](assets/video.mp4)
+[<img src="assets/cover.png" width="460" />](https://photos.onedrive.com/share/46C23A9D2AB7E26B!1918?cid=46C23A9D2AB7E26B&resId=46C23A9D2AB7E26B!1918&authkey=!AE0EzlkgoPEWBdY&ithint=video)
 
 
 ## Grants
