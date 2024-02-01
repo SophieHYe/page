@@ -36,7 +36,6 @@ Please checkout my general research interest in the following video:
 
 
 ## Grants
-- KAW Postdoctoral Scholarship Program with CMU 2023-2025.
 - The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
 
 ## Awards
