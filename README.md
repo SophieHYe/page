@@ -2,7 +2,7 @@
   
 This is Ye! I am a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, advised by Prof. [Claire Le Goues](https://clairelegoues.com). 
 
-Prior to that, I completed my Ph.D. degree in February 2023 at KTH Royal Institute of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp), Prof. [Benoit Baudry](https://softwarediversity.eu/), and co-supervised by Prof. [Matias Martinez](https://www.martinezmatias.com/). My research interests include AI4SE, software testing, analysis, and trustworthy software construction. Particularly, my research focuses on automated program repair, fault localization, patch correctness assessment, and automated test generation. My PhD research is funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org)). 
+Prior to that, I completed my Ph.D. degree at KTH Royal Institute of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp), Prof. [Benoit Baudry](https://softwarediversity.eu/), and co-supervised by Prof. [Matias Martinez](https://www.martinezmatias.com/). My research interests include AI4SE, software testing, analysis, and trustworthy software construction. Particularly, my research focuses on automated program repair, fault localization, patch correctness assessment, and automated test generation. My PhD research is funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org)). 
 
 I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from October 2021 to April 2022. It was a fruitful experience to be advised by Prof. [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
