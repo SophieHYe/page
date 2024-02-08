@@ -2,7 +2,7 @@
 
 This is Ye! I am on the academic job market, please feel free to contact me if you have any leads :) 
 
-I am currently a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, advised by Prof. [Claire Le Goues](https://clairelegoues.com). We are exploring AI(LLM)-assisted **mutation testing**, **smart contract** [(FSE'23)](https://dl.acm.org/doi/10.1145/3611643.3616343), and **WebAssembly Runtimes!**
+I am currently a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, advised by Prof. [Claire Le Goues](https://clairelegoues.com). We are exploring research topics including but not limited to **AI(LLM)-assisted mutation testing**, **smart contracts type inference and vulnerabilities** [(FSE'23)](https://dl.acm.org/doi/10.1145/3611643.3616343), and **WebAssembly runtimes** (my recent favorite)!
 
 Prior to that, I completed my Ph.D. degree at KTH Royal Institute of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp), Prof. [Benoit Baudry](https://softwarediversity.eu/), and co-supervised by Prof. [Matias Martinez](https://www.martinezmatias.com/). My research interests include AI4SE, software testing, analysis, and trustworthy software construction. Particularly, my research focuses on **automated program repair** [(ICSE'22](https://dl.acm.org/doi/abs/10.1145/3510003.3510222),[ASE'22)](https://dl.acm.org/doi/abs/10.1145/3551349.3556926) , **fault localization** [(ICSE'24)](https://arxiv.org/pdf/2304.12015.pdf), **patch correctness assessment** [(TSE'22](https://ieeexplore.ieee.org/document/9399306),[EMSE'21)](https://link.springer.com/article/10.1007/s10664-020-09920-w), and **automated test generation** [(EMSE'21](https://link.springer.com/article/10.1007/s10664-020-09920-w),[JSS'21)](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302193). 
 
@@ -10,10 +10,10 @@ I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from Octob
 
 ## News
 - 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year in all disciplines among five Swedish Universities affiliated with WASP).
-- 🎉 11/2023, I was invited to serve as Program Committee of ASE 2024. Please consider submitting your paper!
-- 🎉 10/2023, I was invited to serve as Program Committee of ICSE 2025. Please consider submitting your paper!
+- 🎉 11/2023, I was invited to serve on the Program Committee of ASE 2024. Please consider submitting your paper!
+- 🎉 10/2023, I was invited to serve on the Program Committee of ICSE 2025. Please consider submitting your paper!
 - 🎉 09/2023, our work received IEEE Distinguished Paper Award in ASE Industry Challenge Competition.
-- 🎉 09/2023, I was invited to serve as Program Committee of MSR 2024. Please consider submitting your paper!
+- 🎉 09/2023, I was invited to serve on the Program Committee of MSR 2024. Please consider submitting your paper!
 
 ## Publications
 Please check my full publication list in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en).
@@ -48,21 +48,20 @@ Please checkout my general research interest in the following video:
 - <span style="color:blue"> Best Paper Award </span>  by IEEE  SANER IBF'2019.
 
 ## Services
-### Conference PC committee: 
+#### PC Committee: 
 - ICSE Research Track (2025)
 - ASE Research Track (2024)
 - MSR Technical Track (2024)
 - SANER Demo Track (2023)
 - ICSE-APR Workshop (2022, 2023, 2024)
-### Journal Reviewer
+#### Journal Reviewer
 - TSE (2022,2023)
 - TOSEM (2023)
 - TDSC (2022,2023)
 - Elsevier SCP (2023)
 - Elsevier IST (2023)
-
-
-
+#### Organisation: 
+- Proceedings Co-chair of Internetware 2024.
 
 ##  Master Thesis Supervision
 - Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime. 2020.
