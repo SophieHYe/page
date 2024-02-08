@@ -50,17 +50,14 @@ Please checkout my general research interest in the following video:
 
 ## Services
 #### PC Committee: 
-- ICSE Research Track (2025)
-- ASE Research Track (2024)
-- MSR Technical Track (2024)
-- SANER Demo Track (2023)
+- ICSE Research Track (2025), ASE Research Track (2024)
+- MSR Technical Track (2024), SANER Demo Track (2023)
 - ICSE-APR Workshop (2022, 2023, 2024)
-#### Journal Reviewer
-- TSE (2022,2023)
-- TOSEM (2023)
-- TDSC (2022,2023)
-- Elsevier SCP (2023)
-- Elsevier IST (2023)
+
+#### Journal Reviewer:
+- TSE (2022,2023), TOSEM (2023), TDSC (2022,2023)
+- Elsevier SCP (2023), Elsevier IST (2023)
+
 #### Organisation: 
 - Proceedings Co-chair of Internetware 2024.
 
