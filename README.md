@@ -9,10 +9,10 @@ Prior to that, I completed my Ph.D. degree at KTH Royal Institute of Technology 
 I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from October 2021 to April 2022. It was a fruitful experience to be advised by Prof. [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
 ## News
-- 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year in all disciplines among five Swedish Universities affiliated with WASP).
+- 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year in all disciplines among five Swedish Universities affiliated with WASP)!
 - 🎉 11/2023, I was invited to serve on the Program Committee of ASE 2024. Please consider submitting your paper!
 - 🎉 10/2023, I was invited to serve on the Program Committee of ICSE 2025. Please consider submitting your paper!
-- 🎉 09/2023, our work received IEEE Distinguished Paper Award in ASE Industry Challenge Competition.
+- 🎉 09/2023, our work received IEEE Distinguished Paper Award in ASE Industry Challenge Competition!
 - 🎉 09/2023, I was invited to serve on the Program Committee of MSR 2024. Please consider submitting your paper!
 
 ## Publications
