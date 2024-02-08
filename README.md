@@ -47,9 +47,9 @@ Please checkout my general research interest in the following video:
 - SANER Demo Track (2023)
 - ICSE-APR Workshop (2022, 2023, 2024)
 ### Journal Reviewer
-- TSE (2022, 2023)
+- TSE (2022,2023)
 - TOSEM (2023)
-- TDSC (2022，2023)
+- TDSC (2022,2023)
 - Elsevier SCP (2023)
 - Elsevier IST (2023)
 
