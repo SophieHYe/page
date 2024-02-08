@@ -12,8 +12,9 @@ I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from Octob
 - 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year in all disciplines among five Swedish Universities affiliated with WASP)!
 - 🎉 11/2023, I was invited to serve on the Program Committee of ASE 2024. Please consider submitting your paper!
 - 🎉 10/2023, I was invited to serve on the Program Committee of ICSE 2025. Please consider submitting your paper!
-- 🎉 09/2023, our work received IEEE Distinguished Paper Award in ASE Industry Challenge Competition!
+- 🎉 09/2023, our work PreciseBugCollector received IEEE Distinguished Paper Award in ASE Industry Challenge Competition!
 - 🎉 09/2023, I was invited to serve on the Program Committee of MSR 2024. Please consider submitting your paper!
+- 🎉 08/2023, our work ITER was accepted to the ICSE 2024 research track!
 
 ## Publications
 Please check my full publication list in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en).
