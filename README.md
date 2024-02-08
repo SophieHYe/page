@@ -1,6 +1,6 @@
 ![](assets/heye.jpg)
   
-This is Ye! I am a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, advised by Prof. [Claire Le Goues](https://clairelegoues.com). 
+This is Ye! I am a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, advised by Prof. [Claire Le Goues](https://clairelegoues.com). We are exploring AI(LLM)-assisted mutation testing, vulnerability detection in smart contract, and WebAssembly Runtimes!
 
 Prior to that, I completed my Ph.D. degree at KTH Royal Institute of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp), Prof. [Benoit Baudry](https://softwarediversity.eu/), and co-supervised by Prof. [Matias Martinez](https://www.martinezmatias.com/). My research interests include AI4SE, software testing, analysis, and trustworthy software construction. Particularly, my research focuses on automated program repair, fault localization, patch correctness assessment, and automated test generation. My PhD research is funded by Wallenberg AI, Autonomous Systems and Software Program ([WASP](https://wasp-sweden.org)). 
 
@@ -8,11 +8,8 @@ I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from Octob
 
 
 
-
-
-
 ## Publications
-More in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en).
+Please check my full publication list in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en).
 - <span style="color:blue"> [ICSE 2024] </span>  **He Ye**, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches**. Accepted to the 46th International Conference on Software Engineering, 2024.[[Paper]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
 - <span style="color:blue">[AAAI 2024]</span> Wanjun Zhong, Lianghong Guo, Qiqi Gao, **He Ye**, Yanlin Wang. **MemoryBank: Enhancing Large Language Models with Long-Term Memory**. Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2024. [[Paper]](https://arxiv.org/pdf/2305.10250.pdf)
 - <span style="color:blue"> [ASE 2023 Industry Challenge]</span>  **He Ye**, Zimin Chen, Claire Le Goues. **PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**. Accepted to the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Challenge Competition, 2023. [[Paper]](https://arxiv.org/pdf/2309.06229.pdf)  <span style="color:red"> Distinguished Paper Award 🏆</span>
@@ -38,9 +35,9 @@ Please checkout my general research interest in the following video:
 - The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
 
 ## Awards
-- <span style="color:blue"> Best Paper Award </span>  by IEEE  SANER IBF'2019.
-- <span style="color:blue"> Distinguished Paper Award </span> by IEEE ASE 2023 Industry Challenge Competition, earning a prize of 7,000 EURO.
 - <span style="color:blue"> Best Thesis of The Year Award in 2023 </span> (one recipient per year among 5 Swedish Universities affiliated with WASP).
+- <span style="color:blue"> Distinguished Paper Award </span> by IEEE ASE 2023 Industry Challenge Competition, earning a prize of 7,000 EURO.
+- <span style="color:blue"> Best Paper Award </span>  by IEEE  SANER IBF'2019.
 
 ## Services
 ### Conference PC committee: 
@@ -52,7 +49,7 @@ Please checkout my general research interest in the following video:
 ### Journal Reviewer
 - TSE (2022, 2023)
 - TOSEM (2023)
-- TDSC (2022)
+- TDSC (2022，2023)
 - Elsevier SCP (2023)
 - Elsevier IST (2023)
 
@@ -76,10 +73,11 @@ Please checkout my general research interest in the following video:
 
 ## PhD Defense
 I will always be grateful to my supervisors: Martin, Benoit and Matias, and to my jury committees: 
-Prof. Baishakhi Ray (Columbia University), 
-Prof. Nicole Novielli (University of Bari),
-Prof. Robert Feldt (Chalmers University of Technology in Gothenburg),
-Prof. Sergey Mechtaev (University College London).
+- Prof. Baishakhi Ray (Columbia University), 
+- Prof. Nicole Novielli (University of Bari),
+- Prof. Robert Feldt (Chalmers University of Technology in Gothenburg),
+- Prof. Sergey Mechtaev (University College London).
+  
 Thank you all for making it happen!
 
 <img src="assets/opponent.jpeg" width="400"/><img src="assets/defense.jpeg" width="400"/>
