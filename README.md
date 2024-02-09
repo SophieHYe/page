@@ -9,7 +9,7 @@ Prior to that, I completed my Ph.D. degree at KTH Royal Institute of Technology 
 I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from October 2021 to April 2022. It was a fruitful experience to be advised by Prof. [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
 ## News
-- 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year in all disciplines among five Swedish Universities affiliated with WASP)!
+- 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year among five Swedish Universities affiliated with WASP)!
 - 🎉 11/2023, I was invited to serve on the Program Committee of ASE 2024. Please consider submitting your paper!
 - 🎉 10/2023, I was invited to serve on the Program Committee of ICSE 2025. Please consider submitting your paper!
 - 🎉 09/2023, our work PreciseBugCollector received IEEE Distinguished Paper Award in ASE Industry Challenge Competition!
@@ -42,7 +42,7 @@ Please check out my general research interest in the following video:
 
 ## Grants
 - The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
-- SIGSOFT CAPS travel grant to attend ICSE 2024 Conference ($800).
+- SIGSOFT CAPS travel grant to attend ICSE 2024 Conference (800 USD).
 
 ## Awards
 - <span style="color:blue"> Best Thesis of The Year Award in 2023 </span> (one recipient per year among 5 Swedish Universities affiliated with WASP).
@@ -51,13 +51,13 @@ Please check out my general research interest in the following video:
 
 ## Services
 #### PC Committee: 
-- ICSE Research Track (2025), ASE Research Track (2024)
-- MSR Technical Track (2024), SANER Demo Track (2023)
+- ICSE Research Track (2025); ASE Research Track (2024)
+- MSR Technical Track (2024); SANER Demo Track (2023)
 - ICSE-APR Workshop (2022, 2023, 2024)
 
 #### Journal Reviewer:
-- TSE (2022,2023), TOSEM (2023), TDSC (2022,2023)
-- Elsevier SCP (2023), Elsevier IST (2023)
+- TSE (2022,2023); TOSEM (2023); TDSC (2022,2023)
+- Elsevier SCP (2023); Elsevier IST (2023)
 
 #### Organisation: 
 - Proceedings Co-chair of Internetware 2024.
@@ -78,7 +78,7 @@ Please check out my general research interest in the following video:
 
 
 ## PhD Defense
-I will always be grateful to my supervisors: Martin, Benoit and Matias, and to my jury committees: 
+I will always be grateful to my supervisors: Martin, Benoit and Matias, and to my jury committee: 
 - Prof. Baishakhi Ray (Columbia University), 
 - Prof. Nicole Novielli (University of Bari),
 - Prof. Robert Feldt (Chalmers University of Technology in Gothenburg),
