@@ -35,13 +35,14 @@ Please check my full publication list in [Google Scholar](https://scholar.google
 
   
 ## Talks
-Please checkout my general research interest in the following video:
+Please check out my general research interest in the following video:
 
 [<img src="assets/cover.png" width="460" />](https://photos.onedrive.com/share/46C23A9D2AB7E26B!1918?cid=46C23A9D2AB7E26B&resId=46C23A9D2AB7E26B!1918&authkey=!AE0EzlkgoPEWBdY&ithint=video)
 
 
 ## Grants
 - The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
+- SIGSOFT CAPS travel grant to attend ICSE 2024 Conference ($800).
 
 ## Awards
 - <span style="color:blue"> Best Thesis of The Year Award in 2023 </span> (one recipient per year among 5 Swedish Universities affiliated with WASP).
