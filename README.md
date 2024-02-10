@@ -1,6 +1,6 @@
 ![](assets/heye.jpg)
 
-This is Ye! I am on the academic job market, please feel free to contact me if you have any leads :) 
+This is Ye! I am on the academic job market, please feel free to contact me if you have any leads :) Please check out my [research statement](https://github.com/SophieHYe/heye-website/blob/main/assets/ResearchStatement_Ye.pdf), [teaching statement](https://github.com/SophieHYe/heye-website/blob/main/assets/TeachingStatement_Ye.pdf), and [diversity & inclusive statement](https://github.com/SophieHYe/heye-website/blob/main/assets/DiversityStatement_Ye.pdf).
 
 I am currently a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, advised by Prof. [Claire Le Goues](https://clairelegoues.com). We are exploring research topics including but not limited to **AI(LLM)-assisted mutation testing**, **smart contract type inference and vulnerabilities** [(FSE'23)](https://dl.acm.org/doi/10.1145/3611643.3616343), and **WebAssembly runtimes** (my recent favorite)!
 
