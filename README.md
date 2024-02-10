@@ -42,7 +42,7 @@ Please check out my general research interest in the following video:
 
 
 ## Grants
-- KAW Postdoc Fellowship at CMU 2023-2025 (145,000 USD).
+- KAW Postdoc Fellowship at CMU 2023-2025 (150K USD).
 - The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
 - SIGSOFT CAPS travel grant to attend ICSE 2024 Conference (800 USD).
 
