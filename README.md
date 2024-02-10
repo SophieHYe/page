@@ -11,7 +11,7 @@ I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from Octob
 ## News
 - 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year among five Swedish Universities affiliated with WASP)!
 - 🎉 11/2023, I was invited to serve on the Program Committee of ASE 2024. Please consider submitting your paper!
-- 🎉 11/2023, I was invited to attend Dagstuhl Seminar on "Automated Programming and Program Repair", excited to see you in October 2024 at Schloss Dagstuhl!
+- 🎉 11/2023, I was invited to attend Dagstuhl Seminar on "Automated Programming and Program Repair", excited to see you at Schloss Dagstuhl in October 2024!
 - 🎉 10/2023, I was invited to serve on the Program Committee of ICSE 2025. Please consider submitting your paper!
 - 🎉 09/2023, our work PreciseBugCollector received IEEE Distinguished Paper Award in ASE Industry Challenge Competition!
 - 🎉 09/2023, I was invited to serve on the Program Committee of MSR 2024. Please consider submitting your paper!
