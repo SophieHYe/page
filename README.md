@@ -50,7 +50,7 @@ Please check out my general research interest in the following video:
 ## Awards
 - <span style="color:blue"> Best Thesis of The Year Award in 2023 </span> (one recipient per year among 5 Swedish Universities affiliated with WASP).
 - <span style="color:blue"> Distinguished Paper Award </span> by IEEE ASE 2023 Industry Challenge Competition, earning a prize of 7,000 EURO.
-- <span style="color:blue"> Best Paper Award </span>  by IEEE  SANER IBF'2019.
+- <span style="color:blue"> Best Paper Award </span> by IEEE SANER Internation Bug Fixing Workshop 2019.
 
 ## Services
 #### PC Committee: 
