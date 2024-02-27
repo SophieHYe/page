@@ -55,7 +55,7 @@ Please check out my general research interest in the following video:
 - <span style="color:blue"> Best Paper Award </span> by IEEE SANER International Bug Fixing (IBF) in 2019.
 
 ## Services
-#### PC Committee: 
+#### Program Committee: 
 - ICSE Research Track (2025); ASE Research Track (2024)
 - MSR Technical Track (2024); SANER Demo Track (2023)
 - ICSE-APR Workshop (2022, 2023, 2024)
