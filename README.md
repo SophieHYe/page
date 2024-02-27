@@ -48,7 +48,8 @@ Please check out my general research interest in the following video:
 - The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
 - SIGSOFT CAPS travel grant to attend ICSE 2024 Conference (800 USD).
 
-## Awards
+## Awards and Honors
+- 3rd place at ICSE 2024 Automated Program Repair Competition in the Java bug AI track.
 - <span style="color:blue"> Best Thesis of The Year Award in 2023 </span> (one recipient per year among 5 Swedish Universities affiliated with WASP).
 - <span style="color:blue"> Distinguished Paper Award </span> by IEEE ASE 2023 Industry Challenge Competition, earning a prize of 7,000 EURO.
 - <span style="color:blue"> Best Paper Award </span> by IEEE SANER International Bug Fixing (IBF) in 2019.
@@ -66,10 +67,19 @@ Please check out my general research interest in the following video:
 #### Organisation: 
 - Proceedings Co-chair of Internetware 2024.
 
-##  Master Thesis Supervision
+## Supervisions
+#### PhD students at CMU: 
+- Kush Jain
+- Cláudia Mamede
+- Luke Dramko
+- Aidan Yang
+#### PhD student at KTH: 
+- André Silva
+####  Master Thesis at KTH
 - Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime. 2020.
 - Abgeiba Yaroslava Isunza Navarro. Evaluation of Attention Mechanisms for Just-In-Time Software Defect Prediction. 2020.
 - Ziyi Xiang. Java Syntax Error Repair Using RoBERTa. 2022.
+- Andreas Jönsson. Improving Pre-training Neural Model on Code. 2023.
 
 
 ## Teaching Assistant
