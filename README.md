@@ -74,17 +74,16 @@ Please check out my general research interest in the following video:
 *  DD2482 Automated Software Testing and DevOps (2019,2020,2021)
 *  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists (2018, 2019, 2020)
 
-## PhD supervision with my supervisors
+## PhD Supervision with My Supervisors
 * Four PhD students at CMU: Kush Jain, Cláudia Mamede, Luke Dramko, Aidan Yang
 * One PhD student at KTH: André Silva
 * One Master student at MUST: Chang Hu
 
-## Master thesis supervision at KTH
+## Master Thesis Supervision at KTH
 - Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime. 2020.
 - Abgeiba Yaroslava Isunza Navarro. Evaluation of Attention Mechanisms for Just-In-Time Software Defect Prediction. 2020.
 - Ziyi Xiang. Java Syntax Error Repair Using RoBERTa. 2022.
 - Andreas Jönsson. Improving Pre-training Neural Model on Code. 2023.
-
 
 ## PhD Defense
 I will always be grateful to my supervisors: Martin, Benoit and Matias, and to my jury committee: 
