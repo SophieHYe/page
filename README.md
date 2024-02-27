@@ -43,9 +43,9 @@ Please check out my general research interest in the following video:
 
 
 ## Grants
-- WASP International Academic Visit Grant 2021-2022 (100,000 SEK).
-- KAW Postdoc Fellowship at CMU 2023-2025 (150K USD).
-- The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175.
+- WASP International Academic Visit Grant 2021-2022 (100,000 SEK - Solo PI).
+- KAW Postdoc Fellowship at CMU 2023-2025 (150K USD - PI).
+- The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175 (PI).
 - SIGSOFT CAPS travel grant to attend ICSE 2024 Conference (800 USD).
 
 ## Awards and Honors
