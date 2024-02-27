@@ -68,7 +68,6 @@ Please check out my general research interest in the following video:
 - Proceedings Co-chair of Internetware 2024.
   
 ## Teaching Assistant
-#### Teaching Assistant at KTH
 *  DD1393 Software Engineering (2018,2019,2020)
 *  DD1334 Database Technology (2019)
 *  DD2480 Software Engineering Fundamentals (2018,2019,2020)
