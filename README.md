@@ -4,7 +4,7 @@ This is Ye! I am on the academic job market, please feel free to contact me if y
 
 I am currently a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, advised by Prof. [Claire Le Goues](https://clairelegoues.com). We are exploring research topics including but not limited to **AI(LLM)-assisted mutation testing**, **smart contract type inference and vulnerabilities** [(FSE'23)](https://dl.acm.org/doi/10.1145/3611643.3616343), and **WebAssembly** (my recent favorite)!
 
-Prior to that, I completed my B.S. degree at Sichuan University and my Ph.D. degree at KTH Royal Institute of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp), Prof. [Benoit Baudry](https://softwarediversity.eu/), and co-supervised by Prof. [Matias Martinez](https://www.martinezmatias.com/). My research interests include AI4SE, software testing, analysis, and trustworthy software construction. Particularly, my research focuses on **automated program repair** [(ICSE'22](https://dl.acm.org/doi/abs/10.1145/3510003.3510222),[ASE'22)](https://dl.acm.org/doi/abs/10.1145/3551349.3556926) , **fault localization** [(ICSE'24)](https://arxiv.org/pdf/2304.12015.pdf), **patch correctness assessment** [(TSE'22](https://ieeexplore.ieee.org/document/9399306),[EMSE'21)](https://link.springer.com/article/10.1007/s10664-020-09920-w), and **automated test generation** [(EMSE'21](https://link.springer.com/article/10.1007/s10664-020-09920-w),[JSS'21)](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302193). 
+Prior to that, I completed my B.S. degree at Sichuan University and my Ph.D. degree at KTH Royal Institute of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp), Prof. [Benoit Baudry](https://diro.umontreal.ca/english/department-directory/professors/professor/in/in36891/sg/Benoit%20Baudry/), and co-supervised by Prof. [Matias Martinez](https://www.martinezmatias.com/). During my PhD, my research focuses on **automated program repair** [(ICSE'22](https://dl.acm.org/doi/abs/10.1145/3510003.3510222),[ASE'22)](https://dl.acm.org/doi/abs/10.1145/3551349.3556926) , **fault localization** [(ICSE'24)](https://arxiv.org/pdf/2304.12015.pdf), **patch correctness assessment** [(TSE'22](https://ieeexplore.ieee.org/document/9399306),[EMSE'21)](https://link.springer.com/article/10.1007/s10664-020-09920-w), and **automated test generation** [(EMSE'21](https://link.springer.com/article/10.1007/s10664-020-09920-w),[JSS'21)](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302193). 
 
 I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from October 2021 to April 2022. It was a fruitful experience to be advised by Prof. [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
@@ -66,22 +66,7 @@ Please check out my general research interest in the following video:
 
 #### Organisation: 
 - Proceedings Co-chair of Internetware 2024.
-
-## Supervisions
-#### PhD students at CMU: 
-- Kush Jain
-- Cláudia Mamede
-- Luke Dramko
-- Aidan Yang
-#### PhD student at KTH: 
-- André Silva
-####  Master Thesis at KTH
-- Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime. 2020.
-- Abgeiba Yaroslava Isunza Navarro. Evaluation of Attention Mechanisms for Just-In-Time Software Defect Prediction. 2020.
-- Ziyi Xiang. Java Syntax Error Repair Using RoBERTa. 2022.
-- Andreas Jönsson. Improving Pre-training Neural Model on Code. 2023.
-
-
+  
 ## Teaching Assistant
 #### Teaching Assistant at KTH
 *  DD1393 Software Engineering (2018,2019,2020)
@@ -89,6 +74,22 @@ Please check out my general research interest in the following video:
 *  DD2480 Software Engineering Fundamentals (2018,2019,2020)
 *  DD2482 Automated Software Testing and DevOps (2019,2020,2021)
 *  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists (2018, 2019, 2020)
+
+## Co-supervisions with my supervisors
+### PhD students at CMU: 
+- Kush Jain
+- Cláudia Mamede
+- Luke Dramko
+- Aidan Yang
+### PhD studentS at KTH: 
+- André Silva
+### Master student at MUST: 
+- Chang Hu
+### Master Thesis at KTH
+- Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime. 2020.
+- Abgeiba Yaroslava Isunza Navarro. Evaluation of Attention Mechanisms for Just-In-Time Software Defect Prediction. 2020.
+- Ziyi Xiang. Java Syntax Error Repair Using RoBERTa. 2022.
+- Andreas Jönsson. Improving Pre-training Neural Model on Code. 2023.
 
 
 ## PhD Defense
