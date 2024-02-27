@@ -61,7 +61,7 @@ Please check out my general research interest in the following video:
 - ICSE-APR Workshop (2022, 2023, 2024)
 
 #### Journal Reviewer:
-- TSE (2022,2023); TOSEM (2023); TDSC (2022,2023)
+- TSE (2022,2023,2024); TOSEM (2023,2024); TDSC (2022,2023,2024)
 - Elsevier SCP (2023); Elsevier IST (2023); ASE Journal (2024)
 
 #### Organisation: 
@@ -75,17 +75,12 @@ Please check out my general research interest in the following video:
 *  DD2482 Automated Software Testing and DevOps (2019,2020,2021)
 *  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists (2018, 2019, 2020)
 
-## Co-supervisions with my supervisors
-### PhD students at CMU: 
-- Kush Jain
-- Cláudia Mamede
-- Luke Dramko
-- Aidan Yang
-### PhD studentS at KTH: 
-- André Silva
-### Master student at MUST: 
-- Chang Hu
-### Master Thesis at KTH
+## PhD supervision with my supervisors
+* Four PhD students at CMU: Kush Jain, Cláudia Mamede, Luke Dramko, Aidan Yang
+* One PhD student at KTH: André Silva
+* One Master student at MUST: Chang Hu
+
+## Master thesis supervision at KTH
 - Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime. 2020.
 - Abgeiba Yaroslava Isunza Navarro. Evaluation of Attention Mechanisms for Just-In-Time Software Defect Prediction. 2020.
 - Ziyi Xiang. Java Syntax Error Repair Using RoBERTa. 2022.
