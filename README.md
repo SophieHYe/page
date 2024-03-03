@@ -64,15 +64,15 @@ Please check out my general research interest in the following video:
 - TSE (2022,2023,2024); TOSEM (2023,2024); TDSC (2022,2023,2024)
 - Elsevier SCP (2023); Elsevier IST (2023); ASE Journal (2024)
 
-#### Organisation: 
+#### Organizing Committee: 
 - Proceedings Co-chair of Internetware 2024.
   
 ## Teaching Assistant
-*  DD1393 Software Engineering (2018,2019,2020)
-*  DD1334 Database Technology (2019)
-*  DD2480 Software Engineering Fundamentals (2018,2019,2020)
-*  DD2482 Automated Software Testing and DevOps (2019,2020,2021)
-*  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists (2018, 2019, 2020)
+*  DD1393 Software Engineering  -  Undergraduate-level course (2018,2019,2020)
+*  DD1334 Database Technology -  Undergraduate-level course (2019)
+*  DD2480 Software Engineering Fundamentals -  Master-level course (2018,2019,2020)
+*  DD2482 Automated Software Testing and DevOps  -  Master-level course (2019,2020,2021)
+*  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists -  Master-level course (2018, 2019, 2020)
 
 ## PhD Supervision with My Supervisors
 * Four PhD students at CMU: Kush Jain, Cláudia Mamede, Luke Dramko, Aidan Yang
