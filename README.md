@@ -8,7 +8,7 @@ Prior to that, I completed my B.S. degree at Sichuan University and my Ph.D. deg
 
 I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from October 2021 to April 2022. It was a fruitful experience to be advised by Prof. [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
-Outside of work, I enjoy cycling, hiking, carpentry, billiards, photography, and playing the harmonica.
+Outside of work, I enjoy sports (cycling/hiking/badminton), carpentry, playing pool, and playing the harmonica.
 
 ## News
 - 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year among five Swedish Universities affiliated with WASP)!
