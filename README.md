@@ -43,9 +43,9 @@ Please check out my general research interest in the following video:
 
 
 ## Grants
-- WASP International Academic Visit Grant 2021-2022 (100,000 SEK - Solo PI).
-- KAW Postdoc Fellowship at CMU 2023-2025 (150K USD - PI).
-- The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175 (PI).
+- WASP International Academic Visit Grant 2021-2022, 100,000 SEK (Solo PI).
+- KAW Postdoc Fellowship at CMU 2023-2025, 150K USD. PI, with Prof. Claire Le Goues.
+- The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes. PI, with André Silva (KTH), Khashayar Etemadi (KTH), and Zimin Chen (KTH). 
 - SIGSOFT CAPS travel grant to attend ICSE 2024 Conference (800 USD).
 
 ## Awards and Honors
@@ -67,12 +67,13 @@ Please check out my general research interest in the following video:
 #### Organizing Committee: 
 - Proceedings Co-chair of Internetware 2024.
   
-## Teaching Assistant
-*  DD1393 Software Engineering  -  Undergraduate-level course (2018,2019,2020)
-*  DD1334 Database Technology -  Undergraduate-level course (2019)
-*  DD2480 Software Engineering Fundamentals -  Master-level course (2018,2019,2020)
-*  DD2482 Automated Software Testing and DevOps  -  Master-level course (2019,2020,2021)
-*  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists -  Master-level course (2018, 2019, 2020)
+## Teaching Assistant 
+(Every year during my PhD, I spent 20% of my time on teaching duties, and I am grateful for the valuable teaching experience I gained.)
+*  DD1393 Software Engineering (undergraduate): 2018,2019,2020
+*  DD1334 Database Technology (undergraduate): 2019
+*  DD2480 Software Engineering Fundamentals (masters): 2018,2019,2020
+*  DD2482 Automated Software Testing and DevOps (masters): 2019,2020,2021
+*  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists (masters): 2018, 2019, 2020
 
 ## PhD Supervision with My Supervisors
 * Four PhD students at CMU: Kush Jain, Cláudia Mamede, Luke Dramko, Aidan Yang
