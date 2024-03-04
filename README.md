@@ -20,7 +20,7 @@ Outside of work, I enjoy sports (cycling/hiking/badminton), carpentry, playing p
 - 🎉 08/2023, our work ITER was accepted to the ICSE 2024 research track!
 
 ## Publications
-Please check my full publication list in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en).
+**Please check my full publication list in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en)**.
 - <span style="color:blue"> [ICSE 2024] </span>  **He Ye**, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches**. Accepted to the 46th International Conference on Software Engineering, 2024.[[Paper]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
 - <span style="color:blue">[AAAI 2024]</span> Wanjun Zhong, Lianghong Guo, Qiqi Gao, **He Ye**, Yanlin Wang. **MemoryBank: Enhancing Large Language Models with Long-Term Memory**. Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2024. [[Paper]](https://arxiv.org/pdf/2305.10250.pdf)[[Code]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
 - <span style="color:blue"> [ASE 2023 Industry Challenge]</span>  **He Ye**, Zimin Chen, Claire Le Goues. **PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**. Accepted to the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Challenge Competition, 2023. [[Paper]](https://arxiv.org/pdf/2309.06229.pdf) [[Code]](https://github.com/SophieHYe/PreciseBugs.git)  <span style="color:red"> Distinguished Paper Award 🏆</span>
