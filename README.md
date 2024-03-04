@@ -44,7 +44,7 @@ Please check out my general research interest in the following video:
 
 ## Grants
 - WASP International Academic Visit Grant 2021-2022, 100,000 SEK (Solo PI).
-- KAW Postdoc Fellowship at CMU 2023-2025, 150K USD. PI, with Prof. Claire Le Goues.
+- KAW Postdoc Fellowship at CMU 2023-2025, 150,000 USD. PI, with Prof. Claire Le Goues.
 - The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes. PI, with André Silva (KTH), Khashayar Etemadi (KTH), and Zimin Chen (KTH). 
 - SIGSOFT CAPS travel grant to attend ICSE 2024 Conference (800 USD).
 
