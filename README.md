@@ -2,12 +2,13 @@
 
 This is Ye! I am on the academic job market, please feel free to contact me if you have any leads :) Welcome to check out my [research statement](https://drive.google.com/file/d/1xaW-NJ3txB_wqxGenmlXlZpQWjcqeOxf/view?usp=sharing), [teaching statement](https://drive.google.com/file/d/18x2rruEAvhzuXI-5_nfnMvHPNcsRPhcZ/view?usp=sharing), and [diversity & inclusive statement](https://drive.google.com/file/d/1_GsMFm8frWqTbVpRYAm3yk05hDtA4Uj_/view?usp=sharing).
 
-I am currently a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, advised by Prof. [Claire Le Goues](https://clairelegoues.com). We are exploring research topics including but not limited to **AI(LLM)-assisted program repair and test generation**, **smart contract type inference and vulnerabilities** [(FSE'23)](https://dl.acm.org/doi/10.1145/3611643.3616343), and **WebAssembly**.
+I am currently a postdoctoral researcher at Software and Societal Systems (S3D) of Carnegie Mellon University, advised by Prof. [Claire Le Goues](https://clairelegoues.com). We are exploring research topics including but not limited to **AI(LLM)-assisted program repair and test generation**, **smart contract type inference and vulnerabilities** [(FSE'23)](https://dl.acm.org/doi/10.1145/3611643.3616343), and **Debugging in WebAssembly**.
 
 Prior to that, I completed my B.S. degree at Sichuan University and my Ph.D. degree at KTH Royal Institute of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp), Prof. [Benoit Baudry](https://diro.umontreal.ca/english/department-directory/professors/professor/in/in36891/sg/Benoit%20Baudry/), and co-supervised by Prof. [Matias Martinez](https://www.martinezmatias.com/). During my PhD, my research focuses on **automated program repair** [(ICSE'22](https://dl.acm.org/doi/abs/10.1145/3510003.3510222),[ASE'22)](https://dl.acm.org/doi/abs/10.1145/3551349.3556926) , **fault localization** [(ICSE'24)](https://arxiv.org/pdf/2304.12015.pdf), **patch correctness assessment** [(TSE'22](https://ieeexplore.ieee.org/document/9399306),[EMSE'21)](https://link.springer.com/article/10.1007/s10664-020-09920-w), and **automated test generation** [(EMSE'21](https://link.springer.com/article/10.1007/s10664-020-09920-w),[JSS'21)](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302193). 
 
 I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from October 2021 to April 2022. It was a fruitful experience to be advised by Prof. [Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/).
 
+Outside of work, I enjoy cycling, hiking, carpentry, billiards, photography, and playing the harmonica.
 
 ## News
 - 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year among five Swedish Universities affiliated with WASP)!
