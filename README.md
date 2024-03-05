@@ -70,10 +70,10 @@ Please check out my general research interest in the following video:
   
 ## Teaching Assistant 
 (Every year during my PhD, I spent 20% of my time on teaching duties, and I am grateful for the valuable teaching experience I gained.)
-*  DD1393 Software Engineering (undergraduate): 2018,2019,2020
+*  DD1393 Software Engineering (undergraduate industrial SE project course): 2018,2019,2020
 *  DD1334 Database Technology (undergraduate): 2019
-*  DD2480 Software Engineering Fundamentals (masters): 2018,2019,2020
 *  DD2482 Automated Software Testing and DevOps (masters): 2019,2020,2021
+*  DD2480 Software Engineering Fundamentals (masters): 2018,2019,2020
 *  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists (masters): 2018, 2019, 2020
 
 ## PhD Supervision with My Supervisors
