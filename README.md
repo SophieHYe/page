@@ -10,7 +10,7 @@ I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from Octob
 
 Outside of work, I enjoy sports (cycling/hiking/badminton), carpentry, playing pool, and playing the harmonica.
 
-## <span style="color:blue">News</span>
+## News
 - 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year among five Swedish Universities affiliated with WASP)!
 - 🎉 11/2023, I was invited to serve on the Program Committee of ASE 2024. Please consider submitting your paper!
 - 🎉 11/2023, I was invited to attend Dagstuhl Seminar on "Automated Programming and Program Repair", excited to see you at Schloss Dagstuhl in October 2024!
@@ -19,7 +19,7 @@ Outside of work, I enjoy sports (cycling/hiking/badminton), carpentry, playing p
 - 🎉 09/2023, I was invited to serve on the Program Committee of MSR 2024. Please consider submitting your paper!
 - 🎉 08/2023, our work ITER was accepted to the ICSE 2024 research track!
 
-## <span style="color:blue">Publications</span>
+## Publications
 **Please check my full publication list in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en)**.
 - <span style="color:blue"> [ICSE 2024] </span>  **He Ye**, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches**. Accepted to the 46th International Conference on Software Engineering, 2024.[[Paper]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
 - <span style="color:blue">[AAAI 2024]</span> Wanjun Zhong, Lianghong Guo, Qiqi Gao, **He Ye**, Yanlin Wang. **MemoryBank: Enhancing Large Language Models with Long-Term Memory**. Proceedings of the 37th AAAI Conference on Artificial Intelligence, 2024. [[Paper]](https://arxiv.org/pdf/2305.10250.pdf)[[Code]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
@@ -35,7 +35,7 @@ Outside of work, I enjoy sports (cycling/hiking/badminton), carpentry, playing p
 ## Contact
 - email: hey[AT]cs[DOT]cmu[DOT]edu
 - twitter: @ye_he_ye
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ye-he-ye" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ye-he-ye?trk=profile-badge">Linkedin</a></div>
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ye-he-ye" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ye-he-ye?trk=profile-badge">LinkedIn</a></div>
               
 
   
