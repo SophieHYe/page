@@ -11,6 +11,7 @@ I was fortunate to visit The Hong Kong Polytechnic University (PolyU) from Octob
 Outside of work, I enjoy sports (cycling/hiking/badminton), carpentry, playing pool, and playing the harmonica.
 
 ## News
+- 🎉 03/2024, we received a GPU grant Berzelius-2024-131 from The National Academic Infrastructure for Supercomputing in Sweden (NAISS).
 - 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year among five Swedish Universities affiliated with WASP)!
 - 🎉 11/2023, I was invited to serve on the Program Committee of ASE 2024. Please consider submitting your paper!
 - 🎉 11/2023, I was invited to attend Dagstuhl Seminar on "Automated Programming and Program Repair", excited to see you at Schloss Dagstuhl in October 2024!
@@ -48,7 +49,8 @@ Please check out my general research interest in the following video:
 ## Grants
 - WASP International Academic Visit Grant 2021-2022, 100,000 SEK (**Solo PI**).
 - KAW Postdoc Fellowship at CMU 2023-2025, 150,000 USD (**PI**, with Prof. Claire Le Goues).
-- The National Supercomputer Centre (NSC) in Sweden: Berzelius-2023-175 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes (**PI**, with André Silva (KTH), Khashayar Etemadi (KTH), and Zimin Chen (KTH)). 
+- 2023 NAISS GPU Grant Berzelius-2023-175 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes (**PI**).
+- 2024 NAISS GPU Grant Berzelius-2024-131 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes (**PI**).
 - SIGSOFT CAPS travel grant to attend ICSE 2024 Conference (800 USD).
 
 ## Awards and Honors
