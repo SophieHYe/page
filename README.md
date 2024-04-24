@@ -35,12 +35,10 @@ Outside of work, I enjoy sports (cycling/hiking/badminton), carpentry, playing p
 
 
 ## Contact
-- email: hey[AT]cs[DOT]cmu[DOT]edu
-- twitter: @ye_he_ye
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ye-he-ye" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/ye-he-ye?trk=profile-badge">LinkedIn</a></div>
-              
+- Email: hey[AT]cs[DOT]cmu[DOT]edu
+- Twitter: @ye_he_ye
 
-  
+              
 ## Talks
 Please check out my general research interest in the following video:
 
@@ -67,11 +65,12 @@ Please check out my general research interest in the following video:
 - ICSE-APR Workshop (2022, 2023, 2024)
 
 #### Journal Reviewer:
-- TSE (2022,2023,2024); TOSEM (2023,2024); TDSC (2022,2023,2024)
+- TSE (2022,2023,2024); TOSEM (2023,2024); TDSC (2022,2023,2024); EMSE(2024)
 - Elsevier SCP (2023); Elsevier IST (2023); ASE Journal (2024)
 
 #### Organizing Committee: 
-- Proceedings Co-chair of Internetware 2024.
+- Proceedings Co-chair of [Internetware 2024](https://conf.researchr.org/home/internetware-2024).
+- Publicity Co-chair of [APSEC 2024](https://conf.researchr.org/home/apsec-2024).
   
 ## Teaching Assistant 
 (Every year during my PhD, I spent 20% of my time on teaching duties, and I am grateful for the valuable teaching experience I gained)
