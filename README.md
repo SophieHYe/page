@@ -85,9 +85,9 @@ Please check out my general research interest in the following video:
 * **One Master student at MUST:** Chang Hu
 
 ## Master Thesis Supervision at KTH
-- Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime (Master's thesis collaboration with Spotify). The thesis is available [here](https://www.diva-portal.org/smash/get/diva2:1428211/FULLTEXT01.pdf), 2020. 
-- Abgeiba Yaroslava Isunza Navarro. Evaluation of Attention Mechanisms for Just-In-Time Software Defect Prediction (Master's thesis collaboration with Ericsson). The thesis is available [here](https://kth.diva-portal.org/smash/get/diva2:1516229/FULLTEXT01.pdf), 2020.
-- Ziyi Xiang. Java Syntax Error Repair Using RoBERTa. The thesis is available [here](https://www.diva-portal.org/smash/get/diva2:1656591/FULLTEXT01.pdf), 2022.
+- Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime (Master's thesis collaboration with Spotify), 2020. 
+- Abgeiba Yaroslava Isunza Navarro. Evaluation of Attention Mechanisms for Just-In-Time Software Defect Prediction (Master's thesis collaboration with Ericsson), 2020.
+- Ziyi Xiang. Java Syntax Error Repair Using RoBERTa, 2022.
 - Andreas Jönsson. Improving Pre-training Neural Model on Code. 2023.
 
 ## PhD Defense
