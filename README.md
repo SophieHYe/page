@@ -68,6 +68,7 @@ Please check out my general research interest in the following video:
 - Elsevier SCP (2023); Elsevier IST (2023); ASE Journal (2024)
 
 #### Organizing Committee: 
+- Program Co-chair of [APR@ICSE 2025 workshop](https://program-repair.org/workshop-2025/)
 - Proceedings Co-chair of [Internetware 2024](https://conf.researchr.org/home/internetware-2024).
 - Publicity Co-chair of [APSEC 2024](https://conf.researchr.org/home/apsec-2024).
   
@@ -81,8 +82,6 @@ Please check out my general research interest in the following video:
 
 ## PhD Supervision with My Supervisors
 * **Four PhD students at CMU:** Kush Jain, Cláudia Mamede, Luke Dramko, Aidan Yang
-* **One PhD student at KTH:** André Silva
-* **One Master student at MUST:** Chang Hu
 
 ## Master Thesis Supervision at KTH
 - Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime (Master's thesis collaboration with Spotify), 2020. 
