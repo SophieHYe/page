@@ -32,7 +32,6 @@ My research interests include, but not limited to, **automated program repair** 
 
 ## Contact
 - Email: hey[AT]cs[DOT]cmu[DOT]edu
-- Twitter: @ye_he_ye
 
               
 ## Talks
