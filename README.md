@@ -10,11 +10,10 @@ Previously, I was a postdoctoral researcher at Carnegie Mellon University, worki
 
 
 ## News
-- 🎉 03/2025, we are organizing [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025), please consider submitting your papers and see you in Singapore in October!
+- 🎉 03/2025, we are organizing [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025), see you in Singapore in October!
 - 🎉 03/2025, our work AdverIntent-Agent was accepted to the ISSTA 2025 research track!
 - 🎉 01/2025, our work LWDIFF was accepted to the ICSE 2025 research track!
 - 🎉 01/2025, I will serve on the Program Committee of ICSE 2026, ASE 2025, SDLC 2025, SWGeno 2025, please consider submitting your papers!
-- 🎉 03/2024, we received a GPU grant Berzelius-2024-131 from The National Academic Infrastructure for Supercomputing in Sweden (NAISS).
 - 🎉 03/2024, we received a GPU grant Berzelius-2024-131 from The National Academic Infrastructure for Supercomputing in Sweden (NAISS).
 - 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year among five Swedish Universities affiliated with WASP)!
 - 🎉 11/2023, I was invited to attend Dagstuhl Seminar on "Automated Programming and Program Repair", excited to see you at Schloss Dagstuhl in October 2024!
