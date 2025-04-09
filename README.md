@@ -22,7 +22,7 @@ Previously, I was a postdoctoral researcher at Carnegie Mellon University, worki
 ## Publications
 **Please check my full publication list in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en)**.
 
-- <span style="color:blue"> [ISSTA 2025] </span>  **He Ye**, Aidan Z.H. Yang, Chang Hu, Yanlin Wang, Tao Zhang, Claire Le Goues. AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent (To appear)
+- <span style="color:blue"> [ISSTA 2025] </span>  **He Ye**, Aidan Z.H. Yang, Chang Hu, Yanlin Wang, Tao Zhang, Claire Le Goues. AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent.
 - <span style="color:blue"> [ICSE 2025] </span> Shiyao Zhou, Jincheng Wang, **He Ye**, Hao Zhou, Claire Le Goues, Xiapu Luo. LWDIFF: An LLM-Assisted Differential Testing Framework for WebAssembly Runtimes
 [[Paper]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a769/251mHCEMl6U)
 - <span style="color:blue"> [Preprint] </span> Aidan Z.H. Yang, Haoye Tian, **He Ye**, Ruben Martins, Claire Le Goues. Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models [[Paper]](https://arxiv.org/pdf/2406.05892)
