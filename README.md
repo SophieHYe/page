@@ -5,7 +5,7 @@ I am a Lecturer (aka. Assistant Professor) at the Centre for Research on Evoluti
 
 My research on multimodal agentic coding (AI4Code) focuses on making programming more efficient and accessible. I specialize in AI-assisted program repair to automate bug detection and fixing, as well as in test generation and fault localization to streamline software development. 
 
-Previously, I was a postdoctoral researcher at Carnegie Mellon University, working with Prof. Claire Le Goues. I completed my B.S. degree from Sichuan University and my Ph.D. from KTH Royal Institute of Technology, where I was fortunate to be advised by Prof. Martin Monperrus and Prof. Benoit Baudry. I’m grateful that my research is funded by [WASP](https://wasp-sweden.org/), which has opened up many opportunities for me.
+Previously, I was a postdoctoral researcher at Carnegie Mellon University, working with Prof. Claire Le Goues. I completed my B.S. degree from Sichuan University and my Ph.D. from KTH Royal Institute of Technology, where I was fortunate to be advised by Prof. Martin Monperrus and Prof. Benoit Baudry. I’m grateful that my research was funded by [WASP](https://wasp-sweden.org/), which has opened up many opportunities for me.
 
 
 
