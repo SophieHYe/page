@@ -1,22 +1,31 @@
 ![](assets/heye.jpg)
 
-This is Ye! I am a lecturer (aka. assistant professor) at University College London. I was a postdoctoral researcher at Carnegie Mellon University, advised by Prof. [Claire Le Goues](https://clairelegoues.com) from 2023-2025. Prior to that, I completed my B.S. degree at Sichuan University and my Ph.D. degree at KTH Royal Institute of Technology where I was fortunate to be advised by Prof. [Martin Monperrus](https://www.kth.se/profile/monp) and Prof. [Benoit Baudry](https://diro.umontreal.ca/english/department-directory/professors/professor/in/in36891/sg/Benoit%20Baudry/).
+This is Ye! 
+I am a Lecturer (aka. Assistant Professor) at the Centre for Research on Evolution, Search, and Testing (CREST) in the Department of Computer Science at University College London.
 
-My research interests include, but not limited to, **automated program repair** [(ICSE'22](https://dl.acm.org/doi/abs/10.1145/3510003.3510222),[ASE'22](https://dl.acm.org/doi/abs/10.1145/3551349.3556926),[TSE'22](https://ieeexplore.ieee.org/document/9399306),[EMSE'21)](https://link.springer.com/article/10.1007/s10664-020-09920-w) , **fault localization** [(ICSE'24)](https://arxiv.org/pdf/2304.12015.pdf),  **automated testing** [(EMSE'21](https://link.springer.com/article/10.1007/s10664-020-09920-w),[JSS'21)](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302193), and **smart contract vulnerabilities** [(FSE'23)](https://dl.acm.org/doi/10.1145/3611643.3616343)
+My research on multimodal agentic coding (AI4Code) focuses on making programming more efficient and accessible. I specialize in AI-assisted program repair to automate bug detection and fixing, as well as in test generation and fault localization to streamline software development. 
+
+Previously, I was a postdoctoral researcher at Carnegie Mellon University, working with Prof. Claire Le Goues. I completed my B.S. degree from Sichuan University and my Ph.D. from KTH Royal Institute of Technology, where I was fortunate to be advised by Prof. Martin Monperrus and Prof. Benoit Baudry. I’m grateful that my research is funded by [WASP](https://wasp-sweden.org/), which has opened up many opportunities for me.
+
 
 
 ## News
+- 🎉 03/2025, we are organizing [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025), please consider submitting your papers and see you in Singapore in October!
+- 🎉 03/2025, our work AdverIntent-Agent was accepted to the ISSTA 2025 research track!
+- 🎉 01/2025, our work LWDIFF was accepted to the ICSE 2025 research track!
+- 🎉 01/2025, I will serve on the Program Committee of ICSE 2026, ASE 2025, SDLC 2025, SWGeno 2025, please consider submitting your papers!
+- 🎉 03/2024, we received a GPU grant Berzelius-2024-131 from The National Academic Infrastructure for Supercomputing in Sweden (NAISS).
 - 🎉 03/2024, we received a GPU grant Berzelius-2024-131 from The National Academic Infrastructure for Supercomputing in Sweden (NAISS).
 - 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year among five Swedish Universities affiliated with WASP)!
-- 🎉 11/2023, I was invited to serve on the Program Committee of ASE 2024. Please consider submitting your paper!
 - 🎉 11/2023, I was invited to attend Dagstuhl Seminar on "Automated Programming and Program Repair", excited to see you at Schloss Dagstuhl in October 2024!
-- 🎉 10/2023, I was invited to serve on the Program Committee of ICSE 2025. Please consider submitting your paper!
 - 🎉 09/2023, our work PreciseBugCollector received IEEE Distinguished Paper Award in ASE Industry Challenge Competition!
-- 🎉 09/2023, I was invited to serve on the Program Committee of MSR 2024. Please consider submitting your paper!
-- 🎉 08/2023, our work ITER was accepted to the ICSE 2024 research track!
 
 ## Publications
 **Please check my full publication list in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en)**.
+
+- <span style="color:blue"> [ISSTA 2025] </span>  **He Ye**, Aidan Z.H. Yang, Chang Hu, Yanlin Wang, Tao Zhang, Claire Le Goues. AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent (To appear)
+- <span style="color:blue"> [ICSE 2025] </span> Shiyao Zhou, Jincheng Wang, **He Ye**, Hao Zhou, Claire Le Goues, Xiapu Luo. LWDIFF: An LLM-Assisted Differential Testing Framework for WebAssembly Runtimes
+[[Paper]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a769/251mHCEMl6U)
 - <span style="color:blue"> [Preprint] </span> Aidan Z.H. Yang, Haoye Tian, **He Ye**, Ruben Martins, Claire Le Goues. Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models [[Paper]](https://arxiv.org/pdf/2406.05892)
 - <span style="color:blue"> [ICSE 2024] </span>  **He Ye**, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches**. Accepted to the 46th International Conference on Software Engineering, 2024.[[Paper]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
 - <span style="color:blue">[AAAI 2024]</span> Wanjun Zhong, Lianghong Guo, Qiqi Gao, **He Ye**, Yanlin Wang. **MemoryBank: Enhancing Large Language Models with Long-Term Memory**. Proceedings of the 38th AAAI Conference on Artificial Intelligence, 2024. [[Paper]](https://arxiv.org/pdf/2305.10250.pdf)[[Code]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
@@ -55,15 +64,17 @@ Please check out my general research interest in the following video:
 
 ## Services
 #### Program Committee: 
-- ICSE Research Track (2025); ASE Research Track (2024)
-- MSR Technical Track (2024); SANER Demo Track (2023)
-- ICSE-APR Workshop (2022, 2023, 2024)
+- ICSE Research Track (2025,2026);
+- ASE Research Track (2024,2025)
+- MSR Technical Track (2024);
+- SANER Demo Track (2023)
 
 #### Journal Reviewer:
 - TSE (2022,2023,2024); TOSEM (2023,2024); TDSC (2022,2023,2024); EMSE(2024)
 - Elsevier SCP (2023); Elsevier IST (2023); ASE Journal (2024)
 
 #### Organizing Committee: 
+- Program Co-chair of [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025)
 - Program Co-chair of [APR@ICSE 2025 workshop](https://program-repair.org/workshop-2025/)
 - Proceedings Co-chair of [Internetware 2024](https://conf.researchr.org/home/internetware-2024).
 - Publicity Co-chair of [APSEC 2024](https://conf.researchr.org/home/apsec-2024).
