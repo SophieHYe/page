@@ -1,14 +1,27 @@
 ![](assets/heye.jpg)
 
 This is Ye! 
-I am a Lecturer (aka. Assistant Professor) in the Department of Computer Science at University College London. My research on multimodal agentic coding (AI4Code) focuses on making programming more efficient and accessible. I specialize in AI-assisted program repair to automate bug detection and fixing, as well as in test generation and fault localization to streamline software development. 
+I am a Lecturer (equivalent to Assistant Professor) in the Department of Computer Science at University College London. My research in multimodal agentic coding focuses on making programming more efficient and accessible. Specifically, I work on large language models (LLMs) for code generation, test generation, and GitHub issue repair. Previously, I was a postdoctoral researcher at Carnegie Mellon University, where I worked with Prof. Claire Le Goues. I completed my Ph.D. at KTH Royal Institute of Technology, advised by Prof. Martin Monperrus and Prof. Benoit Baudry, and earned my B.S. degree from Sichuan University.
 
-Previously, I was a postdoctoral researcher at Carnegie Mellon University, working with Prof. Claire Le Goues. I completed my B.S. degree from Sichuan University and my Ph.D. from KTH Royal Institute of Technology, where I was fortunate to be advised by Prof. Martin Monperrus and Prof. Benoit Baudry. I’m grateful that my research was funded by [WASP](https://wasp-sweden.org/), which has opened up many opportunities for me.
 
+## Opportunities to Work Together
+I am actively looking for self-motivated PhD students (fully funded, partially funded, or self-funded) to work on topics related to LLM4Code. If you are interested in working with me, please follow the steps below:
+
+* 1) Apply to the CS Doctoral Programme before applying for any scholarships. Detailed application information is available here: https://www.ucl.ac.uk/computer-science/study/postgraduate-research/computer-science-mphilphd.
+
+* 2) In your application, please list He Ye and Federica Sarro as potential supervisors, and select Software Systems Engineering (SSE) as your preferred research group.
+
+* 3) Once you have submitted your application, please email me your CV and application number so that I can access your application and arrange an interview.
+ 
+If you are a BSc or MSc student at UCL and interested in research within our group, feel free to email me to arrange a 15-minute meeting.
+
+
+## Call for Proposals
+- 🎉 We are organizing [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025), see you in Singapore in October!
+- 🎉 We are organizing [APR@ICSE 2025 workshop](https://program-repair.org/workshop-2025/), see you in Ottawa in April!
 
 
 ## News
-- 🎉 03/2025, we are organizing [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025), see you in Singapore in October!
 - 🎉 03/2025, our work AdverIntent-Agent was accepted to the ISSTA 2025 research track!
 - 🎉 01/2025, our work LWDIFF was accepted to the ICSE 2025 research track!
 - 🎉 01/2025, I will serve on the Program Committee of ICSE 2026, ASE 2025, SDLC 2025, SWGeno 2025, please consider submitting your papers!
@@ -40,15 +53,9 @@ Previously, I was a postdoctoral researcher at Carnegie Mellon University, worki
 - Email: hey[AT]cs[DOT]cmu[DOT]edu
 
               
-## Talks
-Please check out my general research interest in the following video:
-
-[<img src="assets/cover.png" width="460" />](https://photos.onedrive.com/share/46C23A9D2AB7E26B!1918?cid=46C23A9D2AB7E26B&resId=46C23A9D2AB7E26B!1918&authkey=!AE0EzlkgoPEWBdY&ithint=video)
-
 
 ## Grants
 - WASP International Academic Visit Grant 2021-2022, 100,000 SEK (**Solo PI**).
-- KAW Postdoc Fellowship at CMU 2023-2025, 150,000 USD (**PI**, with Prof. Claire Le Goues).
 - 2023 NAISS GPU Grant Berzelius-2023-175 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes (**PI**).
 - 2024 NAISS GPU Grant Berzelius-2024-131 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes (**PI**).
 - SIGSOFT CAPS travel grant to attend ICSE 2024 Conference (800 USD).
@@ -76,22 +83,6 @@ Please check out my general research interest in the following video:
 - Proceedings Co-chair of [Internetware 2024](https://conf.researchr.org/home/internetware-2024).
 - Publicity Co-chair of [APSEC 2024](https://conf.researchr.org/home/apsec-2024).
   
-## Teaching Assistant 
-(Every year during my PhD, I spent 20% of my time on teaching duties, and I am grateful for the valuable teaching experience I gained)
-*  DD1393 Software Engineering (undergraduate industrial SE project course): 2018,2019,2020
-*  DD1334 Database Technology (undergraduate): 2019
-*  DD2482 Automated Software Testing and DevOps (masters): 2019,2020,2021
-*  DD2480 Software Engineering Fundamentals (masters): 2018,2019,2020
-*  DA2210 Introduction to the Philosophy of Science and Research Methodology for Computer Scientists (masters): 2018, 2019, 2020
-
-## PhD Supervision with My Supervisors
-* **Four PhD students at CMU:** Kush Jain, Cláudia Mamede, Luke Dramko, Aidan Yang
-
-## Master Thesis Supervision at KTH
-- Johan Luttu. Hidden Costs and Opportunities of Kotlin versus Java on Android Runtime (Master's thesis collaboration with Spotify), 2020. 
-- Abgeiba Yaroslava Isunza Navarro. Evaluation of Attention Mechanisms for Just-In-Time Software Defect Prediction (Master's thesis collaboration with Ericsson), 2020.
-- Ziyi Xiang. Java Syntax Error Repair Using RoBERTa, 2022.
-- Andreas Jönsson. Improving Pre-training Neural Model on Code. 2023.
 
 ## PhD Defense
 I will always be grateful to my supervisors: Martin, Benoit and Matias, and to my jury committee: 
