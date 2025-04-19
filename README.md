@@ -1,7 +1,7 @@
 ![](assets/heye.jpg)
 
 This is Ye! 
-I am a Lecturer (equivalent to Assistant Professor) in the Department of Computer Science at University College London. My research in multimodal agentic coding focuses on making programming more efficient and accessible. Specifically, I work on large language models (LLMs) for code generation, test generation, and GitHub issue repair. Previously, I was a postdoctoral researcher at Carnegie Mellon University, where I worked with Prof. Claire Le Goues. I completed my Ph.D. at KTH Royal Institute of Technology, advised by Prof. Martin Monperrus and Prof. Benoit Baudry, and earned my B.S. degree from Sichuan University.
+I am a Lecturer (equivalent to Assistant Professor) in the Department of Computer Science at University College London. My research in multimodal agentic coding focuses on making programming more efficient and accessible. Specifically, I work on large language models (LLMs) for code generation, test generation, and GitHub issue repair. Previously, I was a postdoctoral researcher at Carnegie Mellon University (2023-2025), where I worked with Prof. Claire Le Goues. I completed my Ph.D. at KTH Royal Institute of Technology, advised by Prof. Martin Monperrus and Prof. Benoit Baudry, and completed my B.S. degree from Sichuan University.
 
 We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025) and the [APR@ICSE 2025 workshop](https://program-repair.org/workshop-2025/), we look forward to your submissions!
 
