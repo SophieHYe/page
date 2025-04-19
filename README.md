@@ -9,7 +9,7 @@ We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/hom
 ## Opportunities to Work Together
 I am actively looking for self-motivated PhD students (fully funded, partially funded, or self-funded) to work on topics related to LLM4Code. If you are interested in working with me, please follow the steps below:
 
-* 1) Apply to the CS Doctoral Programme before applying for any scholarships. Detailed application information is available here: https://www.ucl.ac.uk/computer-science/study/postgraduate-research/computer-science-mphilphd.
+* 1) Apply to the CS Doctoral Programme before applying for any scholarships. Detailed application information is available here: [https://www.ucl.ac.uk/computer-science/study/postgraduate-research/computer-science-mphilphd](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/computer-science-mphilphd).
 
 * 2) In your application, please list He Ye and Federica Sarro as potential supervisors, and select Software Systems Engineering (SSE) as your preferred research group.
 
