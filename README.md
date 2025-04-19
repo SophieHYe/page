@@ -3,6 +3,8 @@
 This is Ye! 
 I am a Lecturer (equivalent to Assistant Professor) in the Department of Computer Science at University College London. My research in multimodal agentic coding focuses on making programming more efficient and accessible. Specifically, I work on large language models (LLMs) for code generation, test generation, and GitHub issue repair. Previously, I was a postdoctoral researcher at Carnegie Mellon University, where I worked with Prof. Claire Le Goues. I completed my Ph.D. at KTH Royal Institute of Technology, advised by Prof. Martin Monperrus and Prof. Benoit Baudry, and earned my B.S. degree from Sichuan University.
 
+We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025) and the [APR@ICSE 2025 workshop](https://program-repair.org/workshop-2025/), we look forward to your submissions!
+
 
 ## Opportunities to Work Together
 I am actively looking for self-motivated PhD students (fully funded, partially funded, or self-funded) to work on topics related to LLM4Code. If you are interested in working with me, please follow the steps below:
@@ -15,10 +17,6 @@ I am actively looking for self-motivated PhD students (fully funded, partially f
  
 If you are a BSc or MSc student at UCL and interested in research within our group, feel free to email me to arrange a 15-minute meeting.
 
-
-## Call for Proposals
-- 🎉 We are organizing [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025), see you in Singapore in October!
-- 🎉 We are organizing [APR@ICSE 2025 workshop](https://program-repair.org/workshop-2025/), see you in Ottawa in April!
 
 
 ## News
@@ -33,7 +31,6 @@ If you are a BSc or MSc student at UCL and interested in research within our gro
 ## Publications
 **Please check my full publication list in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en)**.
 
-- <span style="color:blue"> [ISSTA 2025] </span>  **He Ye**, Aidan Z.H. Yang, Chang Hu, Yanlin Wang, Tao Zhang, Claire Le Goues. AdverIntent-Agent: Adversarial Reasoning for Repair Based on Inferred Program Intent.
 - <span style="color:blue"> [ICSE 2025] </span> Shiyao Zhou, Jincheng Wang, **He Ye**, Hao Zhou, Claire Le Goues, Xiapu Luo. LWDIFF: An LLM-Assisted Differential Testing Framework for WebAssembly Runtimes
 [[Paper]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a769/251mHCEMl6U)
 - <span style="color:blue"> [Preprint] </span> Aidan Z.H. Yang, Haoye Tian, **He Ye**, Ruben Martins, Claire Le Goues. Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models [[Paper]](https://arxiv.org/pdf/2406.05892)
