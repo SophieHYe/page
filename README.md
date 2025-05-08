@@ -6,16 +6,6 @@ I am a Lecturer (equivalent to Assistant Professor) in the Department of Compute
 We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025) and the [APR@ICSE 2025 workshop](https://program-repair.org/workshop-2025/), we look forward to your submissions!
 
 
-## Opportunities to Work Together
-I am actively looking for self-motivated PhD students (fully funded, partially funded, or self-funded) to work on topics related to LLM4Code. If you are interested in working with me, please follow the steps below:
-
-* 1) Apply to the CS Doctoral Programme before applying for any scholarships. Detailed application information is available here: [https://www.ucl.ac.uk/computer-science/study/postgraduate-research/computer-science-mphilphd](https://www.ucl.ac.uk/computer-science/study/postgraduate-research/computer-science-mphilphd).
-
-* 2) In your application, please list He Ye and Federica Sarro as potential supervisors, and select Software Systems Engineering (SSE) as your preferred research group.
-
-* 3) Once you have submitted your application, please email me your CV and application number so that I can access your application and arrange an interview.
- 
-If you are a BSc or MSc student at UCL and interested in research within our group, feel free to email me to arrange a 15-minute meeting.
 
 
 
