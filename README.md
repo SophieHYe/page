@@ -37,7 +37,7 @@ We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/hom
 
 
 ## Contact
-- Email: hey[AT]cs[DOT]cmu[DOT]edu
+- Email: he[DOT]ye[AT]ucl[DOT]ac[DOT]uk
 
               
 
@@ -45,7 +45,7 @@ We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/hom
 - WASP International Academic Visit Grant 2021-2022, 100,000 SEK (**Solo PI**).
 - 2023 NAISS GPU Grant Berzelius-2023-175 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes (**PI**).
 - 2024 NAISS GPU Grant Berzelius-2024-131 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes (**PI**).
-- SIGSOFT CAPS travel grant to attend ICSE 2024 Conference (800 USD).
+- SIGSOFT CAPS travel grant to attend ICSE 2024 Conference.
 
 ## Awards and Honors
 - 3rd place at ICSE 2024 Automated Program Repair Competition in the Java bug AI track.
@@ -56,6 +56,7 @@ We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/hom
 ## Services
 #### Program Committee: 
 - ICSE Research Track (2025,2026);
+- FSE Research Track (2026)
 - ASE Research Track (2024,2025)
 - MSR Technical Track (2024);
 - SANER Demo Track (2023)
