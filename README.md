@@ -10,7 +10,6 @@ We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/hom
 
 
 ## News
-- 🎉 03/2025, our work AdverIntent-Agent was accepted to the ISSTA 2025 research track!
 - 🎉 01/2025, our work LWDIFF was accepted to the ICSE 2025 research track!
 - 🎉 01/2025, I will serve on the Program Committee of ICSE 2026, ASE 2025, SDLC 2025, SWGeno 2025, please consider submitting your papers!
 - 🎉 03/2024, we received a GPU grant Berzelius-2024-131 from The National Academic Infrastructure for Supercomputing in Sweden (NAISS).
