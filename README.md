@@ -1,83 +1,27 @@
 ![](assets/heye.jpg)
 
-This is Ye! 
-I am a Lecturer (equivalent to Assistant Professor) in the Department of Computer Science at University College London. My research in multimodal agentic coding focuses on making programming more efficient and accessible. Specifically, I work on large language models (LLMs) for code generation, test generation, and GitHub issue repair. Previously, I was a postdoctoral researcher at Carnegie Mellon University (2023-2025), where I worked with Prof. Claire Le Goues. I completed my Ph.D. at KTH Royal Institute of Technology, advised by Prof. Martin Monperrus and Prof. Benoit Baudry, and completed my B.S. degree from Sichuan University.
+This is Ye! Welcome to my page.
+I am an Assistant Professor at University College London. I previously worked as a Postdoctoral Researcher at Carnegie Mellon University and received my PhD from KTH Royal Institute of Technology. My research focuses on developing the next generation of code agents to automate software engineering tasks, with an emphasis on codebase context retrieval to improve LLM capabilities, automated issue resolution, and the construction of code agent memory. Beyond academia, I am the co-founder of [EuniAI](https://euni.ai/), a startup dedicated to transforming research into real-world solutions that help developers overcome practical software challenges.
 
 We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025) and the [APR@ICSE 2025 workshop](https://program-repair.org/workshop-2025/), we look forward to your submissions!
 
-
-
-
-
-## News
-- 🎉 01/2025, our work LWDIFF was accepted to the ICSE 2025 research track!
-- 🎉 01/2025, I will serve on the Program Committee of ICSE 2026, ASE 2025, SDLC 2025, SWGeno 2025, please consider submitting your papers!
-- 🎉 03/2024, we received a GPU grant Berzelius-2024-131 from The National Academic Infrastructure for Supercomputing in Sweden (NAISS).
-- 🎉 01/2024, my PhD dissertation received The Best Thesis of The Year Award (one recipient per year among five Swedish Universities affiliated with WASP)!
-- 🎉 11/2023, I was invited to attend Dagstuhl Seminar on "Automated Programming and Program Repair", excited to see you at Schloss Dagstuhl in October 2024!
-- 🎉 09/2023, our work PreciseBugCollector received IEEE Distinguished Paper Award in ASE Industry Challenge Competition!
+## Team
+#### PhD students
+- [Zhaoyang Chu](https://zhaoyang-chu.github.io/) (starting Fall 2025)
+- [Xiang Li](https://coco-xiangli.github.io/) (starting Fall 2025)
+#### Research Assistants
+- [Yue Pan](https://scholar.google.com/citations?user=Nhbmi1AAAAAJ&hl=en) 
+- Han Li 
 
 ## Publications
-**Please check my full publication list in [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en)**.
+Recent work:
+- [Prometheus: Unified Knowledge Graphs for Issue Resolution in Multilingual Codebases](https://www.arxiv.org/pdf/2507.19942). Zimin Chen, Yue Pan, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, He Ye. 
 
-- <span style="color:blue"> [ICSE 2025] </span> Shiyao Zhou, Jincheng Wang, **He Ye**, Hao Zhou, Claire Le Goues, Xiapu Luo. LWDIFF: An LLM-Assisted Differential Testing Framework for WebAssembly Runtimes
-[[Paper]](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a769/251mHCEMl6U)
-- <span style="color:blue"> [Preprint] </span> Aidan Z.H. Yang, Haoye Tian, **He Ye**, Ruben Martins, Claire Le Goues. Security Vulnerability Detection with Multitask Self-Instructed Fine-Tuning of Large Language Models [[Paper]](https://arxiv.org/pdf/2406.05892)
-- <span style="color:blue"> [ICSE 2024] </span>  **He Ye**, and Martin Monperrus. **ITER: Iterative Neural Repair for Multi-Location Patches**. Accepted to the 46th International Conference on Software Engineering, 2024.[[Paper]](https://arxiv.org/pdf/2304.12015.pdf) [[Data]](https://www.iterativerepair.tech/)
-- <span style="color:blue">[AAAI 2024]</span> Wanjun Zhong, Lianghong Guo, Qiqi Gao, **He Ye**, Yanlin Wang. **MemoryBank: Enhancing Large Language Models with Long-Term Memory**. Proceedings of the 38th AAAI Conference on Artificial Intelligence, 2024. [[Paper]](https://arxiv.org/pdf/2305.10250.pdf)[[Code]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
-- <span style="color:blue"> [ASE 2023 Industry Challenge]</span>  **He Ye**, Zimin Chen, Claire Le Goues. **PreciseBugCollector: Extensible, Executable and Precise Bug-fix Collection**. Accepted to the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) Industry Challenge Competition, 2023. [[Paper]](https://arxiv.org/pdf/2309.06229.pdf) [[Code]](https://github.com/SophieHYe/PreciseBugs.git)  <span style="color:red"> Distinguished Paper Award 🏆</span>
-- <span style="color:blue"> [FSE 2023]</span> Kunsong Zhao, Zihao Li, Jianfeng Li,  **He Ye**, Xiapu Luo, Ting Chen. **DeepInfer: Deep Type Inference from Smart Contract Bytecode.** Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3611643.3616343)[[Code]](https://github.com/sepine/DeepInfer)
-- <span style="color:blue"> [ASE 2022]</span>   **He Ye**, Matias Martinez, Xiapu Luo, Tao Zhang, and Martin Monperrus. **SelfAPR: Self-supervised Program Repair with Test Execution Diagnostics**. In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. Article 92, pages 1–13, 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3551349.3556926) [[Code]](https://github.com/ASSERT-KTH/SelfAPR)
-- <span style="color:blue"> [ICSE 2022]</span>  **He Ye**, Matias Martinez, and Martin Monperrus. **Neural Program Repair with Execution-based Backpropagation**. In Proceedings of the 44th International Conference on Software Engineering, pages 1506–1518, 2022. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3510003.3510222) [[Code]](https://github.com/ASSERT-KTH/RewardRepair)
-- <span style="color:blue"> [TSE 2022, FSE 2022 Journal-first]</span>  **He Ye**, Jian Gu, Matias Martinez, Thomas Durieux and Martin Monperrus.  **Automated Classification of Overfitting Patches With Statically Extracted Code Features**. In IEEE Transactions on Software Engineering, vol. 48, no. 8, pages 2920-2938. 2022. [[Paper]](https://ieeexplore.ieee.org/document/9399306)[[Code]](https://github.com/ASSERT-KTH/ODSExperiment)
-- <span style="color:blue"> [EMSE 2021, FSE 2021 Journal-first]</span> **He Ye**, Matias Martinez, and Martin Monperrus. **Automated Patch Assessment for Program Repair at Scale**. Empirical Software Engineering, Volume 26, No. 2, 38 pages, 2021. [[Paper]](https://link.springer.com/article/10.1007/s10664-020-09920-w)    [[Code]](https://github.com/KTH/drr)
-- <span style="color:blue"> [JSS 2021, SANER IBF 2019]</span>  **He Ye**, Matias Martinez, Thomas Durieux, Martin Monperrus. **A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark**. Journal of Systems and Software (JSS), Volume 171, 2021. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0164121220302193)   [[Code]](https://github.com/ASSERT-KTH/quixbugs-experiment) <span style="color:red"> Best Paper Award 🏆</span>
-- <span style="color:blue">[IEEE Software 2021]</span> Benoit Baudry, Zimin Chen, Khashayar Etemadi, Han Fu, Davide Ginelli, Steve Kommrusch, Matias Martinez, Martin Monperrus, Javier Ron, **He Ye**, Zhongxing Yu (Equal Contribution, Sorted by Alphabetical Order). **A software-repair robot based on continual learning**. IEEE Software, Volume 4, pages 28-35, 2021.
+**For a complete list, please visit my [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en)**.
+
 
 
 ## Contact
 - Email: he[DOT]ye[AT]ucl[DOT]ac[DOT]uk
 
-              
-
-## Grants
-- WASP International Academic Visit Grant 2021-2022, 100,000 SEK (**Solo PI**).
-- 2023 NAISS GPU Grant Berzelius-2023-175 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes (**PI**).
-- 2024 NAISS GPU Grant Berzelius-2024-131 - NVIDIA SuperPOD consisting of 94 DGX-A100 nodes (**PI**).
-- SIGSOFT CAPS travel grant to attend ICSE 2024 Conference.
-
-## Awards and Honors
-- 3rd place at ICSE 2024 Automated Program Repair Competition in the Java bug AI track.
-- <span style="color:blue"> Best Thesis of The Year Award in 2023 </span> (one recipient per year among 5 Swedish Universities affiliated with WASP).
-- <span style="color:blue"> Distinguished Paper Award </span> by IEEE ASE 2023 Industry Challenge Competition, earning a prize of 7,000 EURO.
-- <span style="color:blue"> Best Paper Award </span> by IEEE SANER International Bug Fixing (IBF) in 2019.
-
-## Services
-#### Program Committee: 
-- ICSE Research Track (2025,2026);
-- FSE Research Track (2026)
-- ASE Research Track (2024,2025)
-- MSR Technical Track (2024);
-- SANER Demo Track (2023)
-
-#### Journal Reviewer:
-- TSE (2022,2023,2024); TOSEM (2023,2024); TDSC (2022,2023,2024); EMSE(2024)
-- Elsevier SCP (2023); Elsevier IST (2023); ASE Journal (2024)
-
-#### Organizing Committee: 
-- Program Co-chair of [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025)
-- Program Co-chair of [APR@ICSE 2025 workshop](https://program-repair.org/workshop-2025/)
-- Proceedings Co-chair of [Internetware 2024](https://conf.researchr.org/home/internetware-2024).
-- Publicity Co-chair of [APSEC 2024](https://conf.researchr.org/home/apsec-2024).
   
-
-## PhD Defense
-I will always be grateful to my supervisors: Martin, Benoit and Matias, and to my jury committee: 
-- Prof. Baishakhi Ray (Columbia University), 
-- Prof. Nicole Novielli (University of Bari),
-- Prof. Robert Feldt (Chalmers University of Technology in Gothenburg),
-- Prof. Sergey Mechtaev (University College London).
-  
-Thank you all for making it happen!
-
-<img src="assets/opponent.jpeg" width="400"/><img src="assets/defense.jpeg" width="400"/>
