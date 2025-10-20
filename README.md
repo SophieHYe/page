@@ -11,18 +11,20 @@ We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/hom
 - [Xiang Li](https://coco-xiangli.github.io/) (starting Fall 2025)
 ##### Research Assistants
 - [Yue Pan](https://scholar.google.com/citations?user=Nhbmi1AAAAAJ&hl=en)
-- Jiayi(Wesley) Xu
-- Han Li 
+- Han Li
+##### Visiting PhDs
+- Zhiwei Fei (2025-2026) from Nanjing University
+- Lingxiao Tang (2025-2026) from Zhejiang University
+- Zhenyu Yang (2025-2026) from Shandong University
 
 ## Publications
-Recent work:
-- [Prometheus: Unified Knowledge Graphs for Issue Resolution in Multilingual Codebases](https://www.arxiv.org/pdf/2507.19942). Zimin Chen, Yue Pan, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, He Ye. 
-
 **For a complete list, please visit my [Google Scholar](https://scholar.google.se/citations?user=K6V2VzsAAAAJ&hl=en)**.
 
+Recent work:
+- [Prometheus: Unified Knowledge Graphs for Issue Resolution in Multilingual Codebases](https://www.arxiv.org/pdf/2507.19942). Zimin Chen, Yue Pan, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, He Ye. 
+- [CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning](https://arxiv.org/abs/2507.17548). Lingxiao Tang, He Ye, Zhongxin Liu, Xiaoxue Ren, Lingfeng Bao.
 
 
 ## Contact
 - Email: he[DOT]ye[AT]ucl[DOT]ac[DOT]uk
 
-  
