@@ -1,9 +1,15 @@
 ![](assets/heye.jpg)
 
-This is Ye! Welcome to my page.
-I am an Assistant Professor at University College London. I previously worked as a Postdoctoral Researcher at Carnegie Mellon University and received my PhD from KTH Royal Institute of Technology. My research focuses on developing the next generation of code agents to automate software engineering tasks, with an emphasis on codebase context retrieval to improve LLM capabilities, automated issue resolution, and the construction of code agent memory. Beyond academia, I am the co-founder of [EuniAI](https://euni.ai/), a startup dedicated to transforming research into real-world solutions that help developers overcome practical software challenges.
+This is Ye. Welcome to my page.
+I am a Lecturer (aka. Assistant Professor) in the Department of Computer Science at University College London.
+Previously, I worked as a Postdoctoral Researcher at Carnegie Mellon University (2023 to 2025) with [Prof. Claire Le Goues](https://clairelegoues.com/).
+I obtained my PhD from KTH Royal Institute of Technology in February 2023, where I was fortunate to be supervised by [Prof. Martin Monperrus](https://www.monperrus.net/martin/) and [Prof. Benoit Baudry](https://softwarediversity.eu/).
 
-We are organizing the [LMPL@SPLASH 2025 workshop](https://conf.researchr.org/home/icfp-splash-2025/lmpl-2025) and the [APR@ICSE 2025 workshop](https://program-repair.org/workshop-2025/), we look forward to your submissions!
+My research focuses on developing the next generation of code agents to automate software engineering tasks. I work on codebase context retrieval and long-term memory for code agents.
+Specifically, my research interests are:
+- Improving codebase context retrieval precision through graph–based reasoning.
+- Building intelligent code agents for issue resolution, environment setup, terminal tasks, and reproduction test generation.
+- Model–agent and multi-agent orchestration.
 
 ## Team
 #### PhD students
