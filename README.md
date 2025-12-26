@@ -14,16 +14,15 @@ Specifically, my research interests are:
 
 ## News
 - **[2025-11]** Prometheus achieved TOP 5 and TOP 1 🏆 in the code agents using gpt-5 in the [SWE-bench Verified leaderboard](https://www.swebench.com/) 🎉! Check out our [Project Repository](https://github.com/EuniAI/Prometheus).
-- **[2025-11]** Prometheus resolved 33.77% of issues in the AWS PolyBench code-agent benchmark using GPT 5, which is higher than the current top agent on the [leaderboard](https://amazon-science.github.io/SWE-PolyBench/#verified). Check out our [Experiment Result](https://github.com/EuniAI/Polybench-experiment).
+- **[2025-11]** Prometheus achieved TOP 1 🏆 by resolving 33.77% of issues in the AWS SWE-PolyBench [leaderboard](https://amazon-science.github.io/SWE-PolyBench/#verified). Check out our [Experiment Result](https://github.com/EuniAI/Polybench-experiment).
 - **[2025-10]** We maintain a curated list of code agent projects and research: **[Awesome Code Agents](https://github.com/EuniAI/awesome-code-agents)** - explore the cutting-edge developments in autonomous code generation, bug fixing, and software engineering automation.
   
-
-
 
 ## Team
 #### PhD students
 - [Zhaoyang Chu](https://zhaoyang-chu.github.io/) (starting Fall 2025)
 - [Xiang Li](https://coco-xiangli.github.io/) (starting Fall 2025)
+- [Sean Xiangxin Zhao] (starting Fall 2026)
 
 #### Research Assistants
 - [Yue Pan](https://scholar.google.com/citations?user=Nhbmi1AAAAAJ&hl=en)
