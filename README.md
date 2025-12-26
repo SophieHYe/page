@@ -22,7 +22,7 @@ Specifically, my research interests are:
 #### PhD students
 - [Zhaoyang Chu](https://zhaoyang-chu.github.io/) (starting Fall 2025)
 - [Xiang Li](https://coco-xiangli.github.io/) (starting Fall 2025)
-- [Sean Xiangxin Zhao] (starting Fall 2026)
+- [Sean Xiangxin Zhao]() (starting Fall 2026)
 
 #### Research Assistants
 - [Yue Pan](https://scholar.google.com/citations?user=Nhbmi1AAAAAJ&hl=en)
